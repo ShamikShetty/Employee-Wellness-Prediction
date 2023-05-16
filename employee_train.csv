@@ -1,0 +1,1049 @@
+S.No,Timestamp,Age,Gender,Country,state,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,comments
+1,8/27/2014 11:29,37,Female,United States,IL,NA,No,Yes,Often,25-Jun,No,Yes,Yes,Not sure,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+2,8/27/2014 11:29,44,M,United States,IN,NA,No,No,Rarely,More than 1000,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,NA
+3,8/27/2014 11:29,32,Male,Canada,NA,NA,No,No,Rarely,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,No,No,NA
+4,8/27/2014 11:29,31,Male,United Kingdom,NA,NA,Yes,Yes,Often,26-100,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes,NA
+5,8/27/2014 11:30,31,Male,United States,TX,NA,No,No,Never,100-500,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,NA
+6,8/27/2014 11:31,33,Male,United States,TN,NA,Yes,No,Sometimes,25-Jun,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,NA
+7,8/27/2014 11:31,35,Female,United States,MI,NA,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,No,No,No,No,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,NA
+8,8/27/2014 11:32,39,M,Canada,NA,NA,No,No,Never,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Don't know,No,No,No,No,No,No,No,No,NA
+9,8/27/2014 11:32,42,Female,United States,IL,NA,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,NA
+10,8/27/2014 11:32,23,Male,Canada,NA,NA,No,No,Never,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+11,8/27/2014 11:32,31,Male,United States,OH,NA,No,Yes,Sometimes,25-Jun,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+12,8/27/2014 11:32,29,male,Bulgaria,NA,NA,No,No,Never,100-500,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,NA
+13,8/27/2014 11:33,42,female,United States,CA,NA,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes,NA
+14,8/27/2014 11:33,36,Male,United States,CT,NA,Yes,No,Never,500-1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,I'm not on my company's health insurance which could be part of the reason I answered Don't know to so many questions.
+15,8/27/2014 11:33,27,Male,Canada,NA,NA,No,No,Never,25-Jun,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,NA
+16,8/27/2014 11:34,29,female,United States,IL,NA,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Maybe,Don't know,No,I have chronic low-level neurological issues that have mental health side effects. One of my supervisors has also experienced similar neurological problems so I feel more comfortable being open about my issues than I would with someone without that experience. 
+17,8/27/2014 11:34,23,Male,United Kingdom,NA,NA,No,Yes,Sometimes,26-100,Yes,Yes,,No,Don't know,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,No,No,My company does provide healthcare but not to me as I'm on a fixed-term contract. The mental healthcare I use is provided entirely outside of my work.
+18,8/27/2014 11:34,32,Male,United States,TN,NA,No,Yes,Sometimes,25-Jun,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No,NA
+19,8/27/2014 11:34,46,male,United States,MD,Yes,Yes,No,Sometimes,5-Jan,Yes,Yes,Yes,Not sure,Yes,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,Yes,NA
+20,8/27/2014 11:35,36,Male,France,NA,Yes,Yes,No,NA,25-Jun,Yes,Yes,No,No,Yes,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+21,8/27/2014 11:35,29,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,NA
+22,8/27/2014 11:35,31,male,United States,NC,Yes,No,No,Never,5-Jan,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+23,8/27/2014 11:35,46,Male,United States,MA,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,NA
+24,8/27/2014 11:36,41,Male,United States,IA,No,No,Yes,Never,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Yes,Don't know,No,NA
+25,8/27/2014 11:36,33,male,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure,Don't know,Yes,Yes,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,Relatively new job. Ask again later
+26,8/27/2014 11:37,35,male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No,Don't know,No,Very easy,Yes,No,Some of them,Yes,No,Yes,No,No,Sometimes I think  about using drugs for my mental health issues. If i use drugs I feel better
+27,8/27/2014 11:37,33,male,United States,TN,No,No,No,NA,5-Jan,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,NA
+28,8/27/2014 11:37,35,Female,United States,CA,No,Yes,Yes,Rarely,25-Jun,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+29,8/27/2014 11:38,34,male,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,No,No,No,NA
+30,8/27/2014 11:38,37,Male,United Kingdom,NA,No,No,No,Sometimes,25-Jun,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,NA
+31,8/27/2014 11:39,32,Male,United Kingdom,NA,No,No,No,Never,25-Jun,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,NA
+32,8/27/2014 11:38,31,Male,United States,PA,Yes,Yes,No,Rarely,5-Jan,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,No,No,Yes,NA
+33,8/27/2014 11:39,30,male,United Kingdom,NA,No,Yes,Yes,Sometimes,500-1000,Yes,Yes,Don't know,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Don't know,No,NA
+34,8/27/2014 11:39,42,Male,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,I selected my current employer based on its policies about self care and the quality of their overall health and wellness benefits. I still have residual caution from previous employers who ranged from ambivalent to indifferent to actively hostile regarding mental health concerns.
+35,8/27/2014 11:40,40,female,United States,WI,No,No,Yes,Sometimes,5-Jan,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Yes,No,NA
+36,8/27/2014 11:41,27,Male,United States,NY,No,No,Yes,Rarely,25-Jun,No,Yes,No,Yes,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+37,8/27/2014 11:41,29,Male,Canada,NA,No,No,No,Rarely,5-Jan,No,Yes,No,No,No,No,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,NA
+38,8/27/2014 11:41,38,Male,Portugal,NA,No,No,No,NA,100-500,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,NA
+39,8/27/2014 11:42,50,M,United States,IN,No,No,No,NA,100-500,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+40,8/27/2014 11:42,35,M,United States,TX,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+41,8/27/2014 11:42,24,Male,United Kingdom,NA,No,No,Yes,Sometimes,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,NA
+42,8/27/2014 11:42,35,Male,United States,MI,No,No,No,NA,More than 1000,Yes,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,Maybe,Don't know,No,NA
+43,8/27/2014 11:43,27,Male,Canada,NA,No,Yes,Yes,Sometimes,5-Jan,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,No,No,No,Yes,No,NA
+44,8/27/2014 11:43,18,Male,Netherlands,NA,No,No,No,Often,25-Jun,No,Yes,No,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,Some of them,No,No,No,No,NA
+45,8/27/2014 11:43,30,Male,United States,IN,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No,NA
+46,8/27/2014 11:43,38,Female,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Our health plan has covered my psychotherapy and my antidepressant medication. My manager has been aware but discreet throughout. I did get negative reviews when my depression was trashing my delivery but y'know I wasn't delivering.
+47,8/27/2014 11:43,28,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,Don't know,No,NA
+48,8/27/2014 11:43,34,Male,United States,TN,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No,NA
+49,8/27/2014 11:43,26,m,Canada,NA,Yes,No,No,Sometimes,5-Jan,No,Yes,No,Yes,Yes,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,NA
+50,8/27/2014 11:44,30,male,United States,IL,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,I just started a new job last week hence a lot of don't know's
+51,8/27/2014 11:44,22,M,United States,TX,No,Yes,Yes,Often,25-Jun,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+52,8/27/2014 11:45,33,Male,United States,UT,No,No,No,NA,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+53,8/27/2014 11:45,31,M,United States,NA,No,No,No,NA,100-500,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+54,8/27/2014 11:45,32,Male,United States,TN,No,No,No,Never,5-Jan,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+55,8/27/2014 11:46,28,M,Switzerland,NA,No,No,No,NA,100-500,No,Yes,No,No,No,No,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No,NA
+56,8/27/2014 11:46,27,Male-ish,United States,NY,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,NA
+57,8/27/2014 11:46,32,maile,United States,TN,No,Yes,No,NA,25-Jun,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,NA
+58,8/27/2014 11:47,24,Male,United States,NY,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Yes,Yes,No,No,NA
+59,8/27/2014 11:47,26,Male,United States,TN,No,No,No,NA,26-100,No,No,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,NA
+60,8/27/2014 11:47,33,male,Canada,NA,No,Yes,Yes,Often,25-Jun,Yes,Yes,Don't know,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,In addition to my own mental health issues I've known several coworkers that may be suffering and I don't know how to tell them I empathize and that I want to help.
+61,8/27/2014 11:48,44,Male,United States,IA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Yes,NA
+62,8/27/2014 11:49,26,Female,Poland,NA,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,NA
+63,8/27/2014 11:50,27,Male,United Kingdom,NA,No,No,No,Never,100-500,No,Yes,Yes,Not sure,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+64,8/27/2014 11:50,26,Male,France,NA,No,No,No,NA,26-100,No,Yes,No,No,No,No,Don't know,Very easy,Yes,No,No,No,No,No,No,Yes,NA
+65,8/27/2014 11:50,35,male,Canada,NA,No,No,No,Sometimes,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+66,8/27/2014 11:51,40,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,Yes,NA
+67,8/27/2014 11:51,23,Female,Australia,NA,No,Yes,Yes,Often,5-Jan,Yes,Yes,No,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Thanks for doing this research.
+68,8/27/2014 11:52,36,M,United States,TX,No,No,No,Sometimes,100-500,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,No,NA
+69,8/27/2014 11:52,31,Female,United States,NM,No,No,No,NA,26-100,Yes,No,Don't know,No,,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+70,8/27/2014 11:52,34,Male,United States,NY,Yes,No,No,Rarely,5-Jan,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+71,8/27/2014 11:53,28,m,France,NA,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+72,8/27/2014 11:53,34,male,Canada,NA,No,No,No,Never,25-Jun,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+73,8/27/2014 11:54,23,Trans-female,United States,MA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Yes,Yes,No,No,No,No,NA
+74,8/27/2014 11:56,38,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,No,No,No,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,NA
+75,8/27/2014 11:56,33,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+76,8/27/2014 11:57,19,Male,United Kingdom,NA,No,No,No,NA,5-Jan,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,NA
+77,8/27/2014 11:57,25,Male,United States,WA,No,No,No,NA,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,NA
+78,8/27/2014 11:57,31,Male,United States,WA,Yes,Yes,No,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+79,8/27/2014 11:59,32,Male,United States,UT,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Yes,No,No,NA
+80,8/27/2014 12:00,28,m,Germany,NA,No,No,No,Never,25-Jun,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,NA
+81,8/27/2014 12:01,38,Male,United States,NY,No,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,No,No,Yes,Some of them,Maybe,Maybe,Yes,No,NA
+82,8/27/2014 12:02,23,Male,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+83,8/27/2014 12:02,30,male,Canada,NA,No,No,No,Never,26-100,No,No,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,No,No,NA
+84,8/27/2014 12:03,27,Cis Female,United States,NY,Yes,No,Yes,Often,5-Jan,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,NA
+85,8/27/2014 12:05,33,Male,United States,CA,No,Yes,No,Never,More than 1000,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,NA
+86,8/27/2014 12:05,31,Male,United States,TX,No,No,No,NA,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,NA
+87,8/27/2014 12:07,39,Male,United Kingdom,NA,Yes,No,Yes,Often,25-Jun,No,Yes,No,No,No,No,Don't know,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,Yes,NA
+88,8/27/2014 12:10,34,female,United States,OR,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+89,8/27/2014 12:11,29,F,United States,FL,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,NA
+90,8/27/2014 12:11,32,M,United States,IL,No,No,No,NA,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+91,8/27/2014 12:12,31,Male,United States,NY,No,No,No,Never,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+92,8/27/2014 12:13,40,male,United States,TX,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,No,No,NA
+93,8/27/2014 12:14,34,Male,United States,OH,No,No,No,NA,26-100,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+94,8/27/2014 12:15,18,something kinda male?,Russia,NA,No,No,No,NA,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,In Russia we have mandatory medical insurance. Every employer must pay 3.6% of every employee's salary to the insurance fund like a tax. Everyone gets free healthcare at public clinics and hospitals. Some types of healthcare including mental health are still funded from the government budget but that doesn't matter it's still FREE!However this is Russia :D I don't know much about what actually happens in mental hospitals here except that a lot of young people with male in their passports use these to avoid military draft and doctors seem to help them.
+95,8/27/2014 12:15,25,F,Canada,NA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+96,8/27/2014 12:15,29,male,United States,MN,No,No,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,No,NA
+97,8/27/2014 12:16,24,Male,United States,MO,No,Yes,No,Rarely,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,NA
+98,8/27/2014 12:17,31,male,Mexico,NA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,No,No,NA
+99,8/27/2014 12:18,33,Cis Male,United States,AZ,No,No,Yes,Sometimes,25-Jun,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,NA
+100,8/27/2014 12:18,30,M,United States,IN,No,No,Yes,Often,5-Jan,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+101,8/27/2014 12:18,26,female,Canada,NA,No,Yes,Yes,Sometimes,26-100,No,No,No,Yes,No,No,No,Very difficult,Yes,No,No,No,No,Maybe,No,Yes,In my previous workplace which had mental health protections policies and access to counsellors my Director went so far as to say to me in somewhat casual conversation A woman was murdered across the street. At best though she was bipolar and at worst - who knowsI have bipolar disorder. I have zero faith that an organization with policies in place could appropriately handle mental health. I have even less faith that a workplace without the policies in place could appropriately handle mental health. I can only imagine it's worse in full tech environments.
+102,8/27/2014 12:18,44,Female,United States,MA,No,No,No,Never,100-500,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,NA
+103,8/27/2014 12:19,25,Male,United States,NY,No,Yes,No,NA,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+104,8/27/2014 12:20,33,Male,United States,WI,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+105,8/27/2014 12:22,29,Male,United States,NY,No,No,No,Never,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+106,8/27/2014 12:23,35,Male,United States,MO,No,Yes,No,Rarely,25-Jun,No,Yes,Yes,Not sure,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+107,8/27/2014 12:23,35,M,United States,OR,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,I've seen negative consequences towards mental health conditions in previous workplaces.Working remote is empowering in this way.
+108,8/27/2014 12:25,28,Male,Brazil,NA,No,Yes,Yes,Rarely,25-Jun,No,Yes,No,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,Yes,NA
+109,8/27/2014 12:28,34,m,United States,TN,No,Yes,No,Never,25-Jun,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,NA
+110,8/27/2014 12:28,32,Male,United States,WA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,NA
+111,8/27/2014 12:29,22,Male,United States,NY,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Yes,No,No,No,No,Yes,No,No,NA
+112,8/27/2014 12:31,28,Male,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+113,8/27/2014 12:31,45,male,United States,MO,No,Yes,Yes,Rarely,25-Jun,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,NA
+114,8/27/2014 12:31,32,Male,United States,NY,No,No,No,Never,100-500,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+115,8/27/2014 12:31,28,male,United States,TX,No,No,No,NA,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+116,8/27/2014 12:31,26,Male,United Kingdom,NA,No,No,No,Never,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,Yes,NA
+117,8/27/2014 12:31,21,Male,United Kingdom,NA,Yes,No,No,Often,5-Jan,Yes,No,No,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,NA
+118,8/27/2014 12:31,27,Male,Canada,NA,No,No,No,Rarely,25-Jun,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+119,8/27/2014 12:31,18,Male,United States,CT,No,No,Yes,Rarely,5-Jan,Yes,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,No,No,No,Don't know,No,NA
+120,8/27/2014 12:32,35,Male,United States,CO,No,No,No,NA,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+121,8/27/2014 12:32,29,Male,United States,GA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,NA
+122,8/27/2014 12:33,25,Male,United States,DC,No,No,No,NA,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+123,8/27/2014 12:33,33,Male,United States,MN,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Don't know,No,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,NA
+124,8/27/2014 12:33,36,Male,United States,WA,No,No,No,Often,25-Jun,No,Yes,Yes,No,No,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,NA
+125,8/27/2014 12:33,27,Male,Canada,NA,No,No,Yes,Never,100-500,No,No,Yes,Not sure,No,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,NA
+126,8/27/2014 12:34,27,Male,United States,WA,No,Yes,No,Never,500-1000,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,Yes,No,Some of them,No,No,Yes,Don't know,No,NA
+127,8/27/2014 12:34,27,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+128,8/27/2014 12:34,32,M,United States,OR,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Yes,No,No,Yes,No,No,Don't know,No,NA
+129,8/27/2014 12:34,31,Male,United Kingdom,NA,No,Yes,No,Sometimes,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Yes,No,NA
+130,8/27/2014 12:34,19,male,Slovenia,NA,No,No,Yes,Sometimes,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,NA
+131,8/27/2014 12:34,33,Male,United States,IL,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Yes,No,No,NA
+132,8/27/2014 12:35,32,male,United States,CA,No,No,No,Rarely,5-Jan,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Maybe,No,Yes,Some of them,No,Yes,Don't know,No,NA
+133,8/27/2014 12:36,27,Male,United States,NE,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+134,8/27/2014 12:36,38,Male,Costa Rica,NA,No,No,No,NA,26-100,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,No,No,NA
+135,8/27/2014 12:36,24,Male,Canada,NA,No,No,Yes,Never,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,NA
+136,8/27/2014 12:37,39,M,United Kingdom,NA,No,No,No,Never,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,NA
+137,8/27/2014 12:37,28,Male,United Kingdom,NA,No,No,No,Never,25-Jun,No,Yes,,No,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+138,8/27/2014 12:37,39,Male,United States,IA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,NA
+139,8/27/2014 12:37,29,Female,United States,MD,No,No,No,NA,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+140,8/27/2014 12:37,22,m,Austria,NA,No,No,No,NA,25-Jun,Yes,Yes,Don't know,No,Don't know,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+141,8/27/2014 12:38,38,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+142,8/27/2014 12:38,37,Male,United Kingdom,NA,Yes,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Yes,Yes,Yes,Very difficult,Yes,Yes,Some of them,No,No,Maybe,Yes,No,I'm not a permanent employee so do not get they benefits they get.My client is extremely supportive of permanent staff with mental health issues.
+143,8/27/2014 12:38,35,M,United States,TX,No,No,No,Never,26-100,Yes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,NA
+144,8/27/2014 12:39,-29,Male,United States,MN,No,No,No,NA,More than 1000,Yes,No,Yes,No,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+145,8/27/2014 12:39,30,Female,United States,PA,No,Yes,No,NA,More than 1000,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,I'd be more worried about coworkers and workplace culture than the employer--they're probably legally obligated to do some things but reputation among people I work with is something else. For instance I've heard people make snide remarks about men taking paternity leave I don't want to know what they'd say about mental health leave.
+146,8/27/2014 12:39,37,Male,United States,IN,No,Yes,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+147,8/27/2014 12:39,24,M,United Kingdom,NA,No,No,No,Never,25-Jun,No,Yes,No,No,No,No,Yes,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,NA
+148,8/27/2014 12:39,23,Male,United States,WV,No,No,No,Sometimes,25-Jun,No,No,No,No,No,No,No,Somewhat easy,Yes,Yes,No,No,No,No,No,No,NA
+149,8/27/2014 12:40,30,male,Ireland,NA,No,No,Yes,Rarely,100-500,No,Yes,No,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,No,Yes,NA
+150,8/27/2014 12:40,29,Female,United States,MI,No,No,No,NA,100-500,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,NA
+151,8/27/2014 12:40,19,Male,Canada,NA,Yes,Yes,No,NA,5-Jan,Yes,Yes,Don't know,Not sure,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+152,8/27/2014 12:40,32,male,United States,CA,No,Yes,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,NA
+153,8/27/2014 12:41,28,male,Poland,NA,No,No,No,Rarely,25-Jun,Yes,Yes,No,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,NA
+154,8/27/2014 12:41,36,Male,United States,IL,No,No,No,Never,25-Jun,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+155,8/27/2014 12:41,37,Male,United Kingdom,NA,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,Maybe,Some of them,No,No,Yes,No,Yes,NA
+156,8/27/2014 12:42,25,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,No,No,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,NA
+157,8/27/2014 12:42,27,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No,NA
+158,8/27/2014 12:43,26,male,United States,OK,No,No,No,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,NA
+159,8/27/2014 12:43,27,male,United States,UT,No,No,Yes,Rarely,26-100,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,Had a co-worker disappear from work for a few weeks and then come back to let everyone know he was bipolar. His responsibilities and schedule were adjusted to accommodate but he got worse didn't show up didn't work etc and was eventually let go.It was tough because on the one hand he was struggling with some mental health issues but on the other hand he went through a period of months where he wasn't performing.
+160,8/27/2014 12:43,25,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Don't know,Yes,Family history of depression.  Currently dealing with depression and anxiety as well as drug addition.Employer provides & pays premiums on insurance which covers therapy and prescriptions.  Employer allows work-from-home and unlimited PTO which makes episodes easier to control.I don't speak of my problems to anyone at work except for the people that I consider friends and even then I don't go into great detail.I would never bring up a mental health issue during an interview for fear of discrimination and rejection (and therefore greater depression).  One co-worker had serious anxiety problems and would not inform his team of episodes and was eventually let go for being unresponsive.
+161,8/27/2014 12:43,36,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,I feel that my employer and colleagues have created my mental health issue. Additionally I have contributed to this by staying in the same job with the same employer for 10 years.
+162,8/27/2014 12:44,25,F,United States,NY,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,NA
+163,8/27/2014 12:44,31,M,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+164,8/27/2014 12:45,26,male,United States,MA,No,Yes,No,Rarely,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+165,8/27/2014 12:46,33,F,United States,WA,Yes,Yes,Yes,Sometimes,5-Jan,No,Yes,No,Yes,Yes,Yes,Yes,Very difficult,No,No,Some of them,Yes,No,Yes,Yes,No,Many of these questions become irrelevant once 'Yes' is selected for 'Are you self-employed'.  It would be preferable for there to be a 'Not Relevant' option on these.
+166,8/27/2014 12:47,27,Woman,United Kingdom,NA,Yes,Yes,No,NA,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,as a UK-based company we don't have any medical provisions as it's all provided on the National Health Service (for now!) However if we do need to take days off for any kind of health problems everyone is understanding :)
+167,8/27/2014 12:48,34,Male,United States,MN,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+168,8/27/2014 12:48,42,male,United States,CA,No,No,No,NA,25-Jun,No,Yes,No,Yes,No,No,Don't know,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,NA
+169,8/27/2014 12:48,23,male,Ireland,NA,Yes,Yes,No,Sometimes,5-Jan,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,NA
+170,8/27/2014 12:48,24,Male,United Kingdom,NA,No,No,No,Rarely,100-500,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,NA
+171,8/27/2014 12:48,26,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,My employer employs 17k people worldwide and my previous employer only 140 globally both have been very supportive and accommodating with my moderate depression and intense anxiety.
+172,8/27/2014 12:48,31,Male,United Kingdom,NA,Yes,No,Yes,Often,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+173,8/27/2014 12:49,22,M,India,NA,No,No,Yes,Never,More than 1000,No,Yes,Don't know,Not sure,No,No,Don't know,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,NA
+174,8/27/2014 12:49,23,Female,United States,NC,No,No,No,NA,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,NA
+175,8/27/2014 12:49,34,Female,Canada,NA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,NA
+176,8/27/2014 12:49,31,male,United States,MO,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,NA
+177,8/27/2014 12:50,28,Male,United Kingdom,NA,No,No,No,NA,100-500,No,No,No,Not sure,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,NA
+178,8/27/2014 12:50,32,Female,United States,MA,No,No,Yes,Often,25-Jun,Yes,Yes,Yes,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,Yes,I am not sure about my company's healthcare because I've opted out of it and I'm covered under another policy.I currently work at a great company though in past jobs I don't think I would have felt comfortable talking about mental health at all.
+179,8/27/2014 12:51,45,F,United States,CA,No,No,Yes,Sometimes,5-Jan,No,Yes,Yes,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,In small startups it is very hard to keep mental health issues truly private no matter what management does.
+180,8/27/2014 12:51,33,Male,United States,TX,No,No,No,NA,25-Jun,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Don't know,No,A close family member of mine struggles with mental health so I try not to stigmatize it. My employers/coworkers also seem compassionate toward any kind of health or family needs.
+181,8/27/2014 12:51,29,male,Mexico,NA,No,No,No,Never,25-Jun,Yes,Yes,No,No,No,No,No,Don't know,Maybe,Maybe,No,Yes,Maybe,Yes,No,No,NA
+182,8/27/2014 12:51,26,f,India,NA,Yes,No,No,Sometimes,25-Jun,No,No,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+183,8/27/2014 12:51,28,Female,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+184,8/27/2014 12:51,45,M,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,NA
+185,8/27/2014 12:52,43,Male,United States,WA,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No,NA
+186,8/27/2014 12:52,37,male,United States,MA,No,No,No,NA,500-1000,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,No,Some of them,No,Maybe,Yes,No,No,NA
+187,8/27/2014 12:52,24,Male,United Kingdom,NA,No,No,No,Sometimes,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,NA
+188,8/27/2014 12:53,26,Male,France,NA,No,No,No,NA,25-Jun,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,No,No,Maybe,Yes,No,NA
+189,8/27/2014 12:53,23,male,United Kingdom,NA,No,Yes,No,NA,5-Jan,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,NA
+190,8/27/2014 12:53,35,Female,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Yes,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,NA
+191,8/27/2014 12:53,38,Female,South Africa,NA,Yes,Yes,Yes,Often,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,NA
+192,8/27/2014 12:53,28,Male,United States,MI,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,No,No,NA
+193,8/27/2014 12:54,28,Male,Russia,NA,No,No,No,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+194,8/27/2014 12:54,35,Male,United States,CA,No,No,Yes,Rarely,25-Jun,No,Yes,No,No,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+195,8/27/2014 12:54,32,female,Germany,NA,No,No,No,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,Too many people even especially IT considered mental health issues as a choice or something people can freely act about. You are depressed: take vacation. You feel weird: admit it is physical (otherwise it is not serious) go and see a doctor (and if you are on sick leave too many days you will get fired). You don't feel good today: take a holiday but don't work from home. In startup there is what I call the tyranny of happiness: you have to look happy to be accepted and to be worked with. At some point playing a role can definitely make the mental health issue worse and it is also a threat to diversity :(I don't like to call mental health issues an issue but actually when it comes to company field it too often becomes an issue and this is sad because working is sometimes better than medication. It is a vicious circle: people are scared of speaking about it so they don't inform their coworkers about what mental health is for real and so coworkers are so scared on a regular basis that the people with mental health issues keep it for themselves. 
+196,8/27/2014 12:54,31,Mal,Italy,NA,Yes,Yes,No,Never,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,NA
+197,8/27/2014 12:55,35,Female,United States,NY,No,No,No,Never,500-1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,NA
+198,8/27/2014 12:55,26,Male,United States,CA,No,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,NA
+199,8/27/2014 12:56,27,Male,United States,TN,No,Yes,No,NA,25-Jun,Yes,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,NA
+200,8/27/2014 12:56,28,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,NA
+201,8/27/2014 12:57,27,Female,United States,OR,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,My seniority at the company and rapport with the owners has helped me gain support for seeking help regarding my mental health as well as being able to take time off or work from home when an episode starts.However I don't feel that the company's stance on mental health is as clear as say something like vision or dental.  There's very much a stigma.
+202,8/27/2014 12:57,34,female,United States,MN,No,No,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,NA
+203,8/27/2014 12:58,41,male,United States,FL,No,No,Yes,Often,25-Jun,Yes,Yes,No,Not sure,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+204,8/27/2014 12:58,37,Male,Ireland,NA,No,No,No,Sometimes,5-Jan,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,No,No,No,Yes,Don't know,No,When you are an introvert people don't notice if you are depressed. Its a vicious cycle of sorts.
+205,8/27/2014 13:00,34,male,Austria,NA,No,Yes,No,NA,100-500,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,NA
+206,8/27/2014 13:02,32,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,I've answered 'Yes' on remote working but 50% is the maximum time we're allowed.The branch of the company I work for doesn't offer any medical benefits. It's not as common in the UK as we have the NHS for the moment. There are international branches that may so I've answered 'Don't know'.
+207,8/27/2014 13:03,21,Male,Canada,NA,No,No,Yes,Sometimes,25-Jun,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,NA
+208,8/27/2014 13:04,30,M,United States,MA,No,No,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,NA
+209,8/27/2014 13:04,24,male,United States,KS,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+210,8/27/2014 13:05,26,male,Bulgaria,NA,No,No,No,NA,100-500,No,Yes,No,No,No,No,No,Very easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+211,8/27/2014 13:06,40,Female,United States,DC,No,No,No,NA,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+212,8/27/2014 13:06,37,Male,United Kingdom,NA,No,Yes,No,Sometimes,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,Don't know,No,NA
+213,8/27/2014 13:07,26,Male,United Kingdom,NA,Yes,No,Yes,Often,5-Jan,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,NA
+214,8/27/2014 13:07,32,F,United States,TX,No,Yes,Yes,Sometimes,25-Jun,No,Yes,Don't know,No,No,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,NA
+215,8/27/2014 13:07,32,f,United States,MA,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,NA
+216,8/27/2014 13:07,27,female,United States,MI,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,No,Don't know,Don't know,Don't know,Very difficult,No,No,Some of them,No,No,No,Don't know,No,Many of these questions were difficult to answer as a self-employed person; I did my best with the available options.
+217,8/27/2014 13:08,30,Male,Germany,NA,Yes,No,Yes,Often,25-Jun,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No,I tried to answer as good as possible but I am CEO of a company so many questions don't fit very well.Also many of the questions are very US-centric in most systems healthcare is not your employers business.
+218,8/27/2014 13:09,31,M,Canada,NA,Yes,No,No,NA,25-Jun,No,Yes,Yes,Yes,No,Don't know,Yes,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,NA
+219,8/27/2014 13:09,29,F,United States,NY,No,No,Yes,Never,500-1000,No,No,Yes,No,No,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+220,8/27/2014 13:09,41,Male (CIS),United States,VA,No,No,No,NA,26-100,No,Yes,Yes,Not sure,No,No,Don't know,Very easy,Yes,No,No,Some of them,No,No,Don't know,No,NA
+221,8/27/2014 13:12,34,female,United States,WA,No,No,No,NA,25-Jun,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,One of my coworkers has mental health issues and she's open about them (eg: my enjoyment of this project may be due to my recent change in meds). I believe the response has been generally supportive. We're a very small tight-knit company.
+222,8/27/2014 13:12,33,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,NA
+223,8/27/2014 13:14,28,male,United States,PA,No,No,No,Rarely,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+224,8/27/2014 13:15,28,Male,United States,MI,No,No,Yes,Sometimes,More than 1000,No,Yes,No,Yes,No,No,Yes,Very difficult,Yes,No,No,Some of them,No,No,No,No,NA
+225,8/27/2014 13:15,23,Male,United States,PA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,,No,No,No,Yes,No,Yes,Yes,No,A strong mind goes a long way. Stay strong. Take some time off to help. Its all in your head. 
+226,8/27/2014 13:18,24,M,United States,OR,No,No,No,NA,5-Jan,No,Yes,Don't know,No,Don't know,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Would you bring up a mental health issue with a potential employer in an interview?Poignant.
+227,8/27/2014 13:18,32,male,United States,WA,No,No,No,Rarely,5-Jan,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+228,8/27/2014 13:19,34,Male,Australia,NA,Yes,No,No,Sometimes,5-Jan,Yes,Yes,Don't know,Not sure,Yes,Yes,Don't know,Somewhat difficult,Yes,Yes,No,No,No,Maybe,Yes,No,NA
+229,8/27/2014 13:21,24,Male,United States,PA,No,No,No,Never,25-Jun,No,Yes,Yes,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,Yes,No,NA
+230,8/27/2014 13:22,26,male,United Kingdom,NA,Yes,No,Yes,Sometimes,5-Jan,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+231,8/27/2014 13:22,36,Male,United States,OH,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,NA
+232,8/27/2014 13:23,41,Male,United States,TX,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,Maybe,Maybe,No,No,I found it difficult to answer all of the questions effectively as many of them would depend on the nature of the mental health issues as some seem more socially accepted than others. For some people telling your current supervisor that you have a history of bi-polar disorder might be easier than telling a potential employer that you have a history of compulsive gambling. They might both be bits of irrelevant information (past behavior and not indicators of future behavior). However western culture pushes us to appear as capable as possible to our supervisors in pursuit of excellence in our work. Providing information that could create a negative bias seems like a more genuine and yet more risky approach to the discussion.
+233,8/27/2014 13:24,38,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,,Not sure,Don't know,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,NA
+234,8/27/2014 13:24,38,Male,United States,NH,No,No,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,NA
+235,8/27/2014 13:26,30,male,Netherlands,NA,No,No,No,NA,26-100,No,Yes,Don't know,No,Don't know,Don't know,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,NA
+236,8/27/2014 13:26,25,Male,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,NA
+237,8/27/2014 13:27,37,Male,Canada,NA,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,NA
+238,8/27/2014 13:29,34,Male,United Kingdom,NA,No,Yes,No,NA,25-Jun,No,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Yes,No,Yes,No,Yes,NA
+239,8/27/2014 13:29,37,F,United States,NC,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+240,8/27/2014 13:31,28,Female,Canada,NA,No,Yes,Yes,Sometimes,25-Jun,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,No,Yes,NA
+241,8/27/2014 13:31,22,Male,Sweden,NA,No,No,No,NA,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,NA
+242,8/27/2014 13:32,34,male,United States,FL,No,Yes,Yes,Sometimes,5-Jan,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,NA
+243,8/27/2014 13:32,33,M,United States,CA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+244,8/27/2014 13:33,25,Male,South Africa,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,No,No,NA
+245,8/27/2014 13:34,27,Male,United States,GA,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+246,8/27/2014 13:35,40,M,United States,OH,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,Maybe,No,Yes,I have only discussed my mental illness with close family members. I feel completely uncomfortable discussing with anyone at my place of employment as I am concerned it would have negative consequences.
+247,8/27/2014 13:35,21,Male,United States,KY,No,No,Yes,Often,25-Jun,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+248,8/27/2014 13:37,29,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,No,No,No,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,NA
+249,8/27/2014 13:37,32,M,United States,NC,No,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,NA
+250,8/27/2014 13:38,29,f,United States,NY,No,Yes,Yes,Rarely,500-1000,Yes,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,NA
+251,8/27/2014 13:39,23,Male,United States,AL,No,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,NA
+252,8/27/2014 13:40,28,Male,United States,GA,No,Yes,No,NA,100-500,No,Yes,Yes,No,No,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,NA
+253,8/27/2014 13:42,31,male,United States,CA,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+254,8/27/2014 13:44,27,Male,United Kingdom,NA,No,No,No,NA,100-500,No,No,Don't know,Not sure,Don't know,Don't know,No,Very easy,Maybe,Maybe,Yes,Yes,No,No,Don't know,No,NA
+255,8/27/2014 13:44,24,Male,United States,VA,No,No,No,Sometimes,25-Jun,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+256,8/27/2014 13:46,29,Male,Canada,NA,No,No,No,Often,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,NA
+257,8/27/2014 13:47,23,Female,United Kingdom,NA,No,No,Yes,Sometimes,25-Jun,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,NA
+258,8/27/2014 13:47,42,Male,United States,WA,No,No,No,Never,25-Jun,Yes,Yes,No,Yes,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,No benefits at this organization but my employer/direct supervisor has had positive and constructive conversations with me about physical and mental health. Supervisor offered solutions advice time/energy to get help if I ever felt that needed it. (though it would have to be at my own expense). I feel safe sharing personal info with this particular person/company but this environment is the exception rather than the norm in my 15 years as a tech worker. I would never feel safe enough to reveal info about any mental health concerns with any previous employers in the tech industry for fear of  negative perceptions job loss performance dings etc. 
+259,8/27/2014 13:48,24,Male,United Kingdom,NA,No,No,No,NA,5-Jan,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,NA
+260,8/27/2014 13:49,25,Male,Australia,NA,No,Yes,Yes,Often,25-Jun,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Maybe,No,No,No,Yes,No,Yes,NA
+261,8/27/2014 13:49,27,Female,United States,TX,No,No,Yes,Rarely,25-Jun,No,Yes,Yes,No,No,No,Yes,Don't know,Maybe,Maybe,Yes,No,No,Maybe,Don't know,No,NA
+262,8/27/2014 13:52,27,Male,Canada,NA,No,No,No,Sometimes,25-Jun,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,NA
+263,8/27/2014 13:52,30,Male,United States,FL,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,No,Yes,No,NA
+264,8/27/2014 13:53,29,male,Poland,NA,No,Yes,Yes,Rarely,25-Jun,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,Some of them,No,Yes,No,No,NA
+265,8/27/2014 13:53,43,Male,Canada,NA,Yes,No,No,NA,25-Jun,Yes,Yes,No,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,Yes,Yes,Don't know,No,NA
+266,8/27/2014 13:53,32,male,United States,NV,No,No,No,NA,25-Jun,No,Yes,No,Yes,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+267,8/27/2014 13:54,41,Male,United States,AL,No,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Don't know,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,I think I am very lucky in my workplace. Our CEO has a degree in psychology.
+268,8/27/2014 13:54,32,Male,United Kingdom,NA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes,Some of these questions were difficult to answer as being self-employed they didn't all apply to me.
+269,8/27/2014 13:55,37,Female,United States,CA,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,NA
+270,8/27/2014 13:55,32,Male,United States,CO,No,No,No,Never,25-Jun,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,NA
+271,8/27/2014 13:55,30,Male,Ireland,NA,Yes,No,No,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,NA
+272,8/27/2014 13:56,23,female,United States,MN,No,Yes,Yes,Never,100-500,No,No,Yes,No,Don't know,Don't know,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+273,8/27/2014 13:56,30,Male,United States,NJ,No,No,No,NA,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+274,8/27/2014 13:59,34,male,United Kingdom,NA,No,No,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,No,Don't know,No,NA
+275,8/27/2014 13:59,38,Male,United States,PA,No,No,Yes,Rarely,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,NA
+276,8/27/2014 14:01,33,Male,Canada,NA,No,No,No,NA,100-500,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+277,8/27/2014 14:01,34,male,United States,MO,No,No,No,NA,26-100,No,No,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+278,8/27/2014 14:01,28,male,Colombia,NA,No,No,No,Sometimes,25-Jun,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No,NA
+279,8/27/2014 14:03,28,male,United States,MN,No,No,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,NA
+280,8/27/2014 14:03,23,Male,United States,PA,No,Yes,No,Sometimes,100-500,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,NA
+281,8/27/2014 14:03,22,Male,Australia,NA,Yes,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Don't know,Not sure,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,No,Yes,NA
+282,8/27/2014 14:06,27,male,Portugal,NA,No,No,No,Never,25-Jun,No,Yes,No,No,No,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,It's a small startup in a small city in a small country.
+283,8/27/2014 14:10,18,male,United States,TX,No,No,Yes,Sometimes,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,NA
+284,8/27/2014 14:10,35,male,United States,NY,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No,NA
+285,8/27/2014 14:10,25,Male,Canada,NA,No,No,No,NA,100-500,No,No,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,No,No,NA
+286,8/27/2014 14:11,27,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,Hi Ed it's Paul Dragoonis. I have Aspergers/High Functioning Autism :-)
+287,8/27/2014 14:11,26,Female,United States,WA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+288,8/27/2014 14:11,18,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+289,8/27/2014 14:13,38,Female,United States,TX,No,No,Yes,Sometimes,5-Jan,No,Yes,No,Yes,No,No,Don't know,Don't know,No,Maybe,Some of them,No,No,No,Don't know,Yes,The form of mental health problem that I suffer is anxiety.
+290,8/27/2014 14:13,26,Female,United States,TX,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+291,8/27/2014 14:13,30,Male,Switzerland,NA,Yes,No,No,Never,5-Jan,No,Yes,No,No,No,No,No,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,NA
+292,8/27/2014 14:14,35,male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+293,8/27/2014 14:15,45,male,United States,NY,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+294,8/27/2014 14:15,32,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+295,8/27/2014 14:15,56,Male,United States,NA,No,No,Yes,Never,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,Maybe,Yes,Some of them,No,Maybe,Don't know,No,NA
+296,8/27/2014 14:16,24,Female,United States,CA,No,No,No,NA,500-1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No,NA
+297,8/27/2014 14:18,30,F,United States,SC,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,NA
+298,8/27/2014 14:18,60,male,United States,CA,No,No,No,NA,More than 1000,No,Yes,Yes,No,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+299,8/27/2014 14:18,33,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,NA
+300,8/27/2014 14:19,37,M,United States,NY,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+301,8/27/2014 14:19,23,Female,United States,NY,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,NA
+302,8/27/2014 14:20,31,f,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,NA
+303,8/27/2014 14:20,26,Male,United States,MA,No,No,No,Rarely,100-500,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+304,8/27/2014 14:21,28,female,United States,WA,No,Yes,Yes,Often,100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,No,Yes,No,NA
+305,8/27/2014 14:21,37,F,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+306,8/27/2014 14:22,26,male,Canada,NA,No,Yes,Yes,Often,25-Jun,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No,NA
+307,8/27/2014 14:22,30,queer/she/they,United States,IL,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+308,8/27/2014 14:22,26,M,United States,IN,No,No,No,NA,26-100,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,NA
+309,8/27/2014 14:22,25,Male,United States,OR,No,No,No,NA,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+310,8/27/2014 14:23,27,Male,United States,TN,No,No,No,Sometimes,100-500,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,The thought of going through my employer directly to get help is fucking scary.Getting help is the hardest part of getting help.
+311,8/27/2014 14:23,25,Male,Canada,NA,No,No,Yes,Often,25-Jun,Yes,No,Don't know,No,No,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+312,8/27/2014 14:24,35,male,United States,OR,No,No,Yes,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+313,8/27/2014 14:25,36,Male,United States,WA,Yes,No,Yes,Never,5-Jan,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,NA
+314,8/27/2014 14:25,26,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No,No,NA
+315,8/27/2014 14:26,27,Male,United States,CA,No,Yes,No,NA,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know because I haven't checked not because it's difficult to find out. If you didn't have the don't know option I would've looked up the answer.
+316,8/27/2014 14:27,30,male,United States,VT,No,No,No,NA,25-Jun,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+317,8/27/2014 14:27,29,M,United States,NY,No,No,No,NA,100-500,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+318,8/27/2014 14:27,25,Male,United States,UT,No,No,No,Never,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+319,8/27/2014 14:27,22,Female,United States,NY,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,Yes,NA
+320,8/27/2014 14:28,29,male,Latvia,NY,No,No,No,NA,26-100,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+321,8/27/2014 14:28,41,Male,United States,SD,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+322,8/27/2014 14:28,29,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,No,NA
+323,8/27/2014 14:28,32,Male,United States,OR,No,No,No,Never,500-1000,No,Yes,Yes,Not sure,Don't know,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+324,8/27/2014 14:28,24,female,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+325,8/27/2014 14:29,25,Male,United States,CA,No,No,Yes,Rarely,25-Jun,No,Yes,Yes,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,NA
+326,8/27/2014 14:30,25,m,United States,CA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+327,8/27/2014 14:31,30,Female,United States,CO,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No,NA
+328,8/27/2014 14:31,25,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,NA
+329,8/27/2014 14:31,30,Male,United States,OH,Yes,No,No,Never,5-Jan,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+330,8/27/2014 14:32,33,male,Germany,NA,Yes,Yes,Yes,Rarely,5-Jan,No,No,No,No,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,Maybe,No,Yes,Yes,NA
+331,8/27/2014 14:32,24,Male,United States,WA,No,No,No,NA,26-100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+332,8/27/2014 14:33,25,Male,Canada,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,NA
+333,8/27/2014 14:34,31,Male,United States,OH,No,No,No,NA,100-500,No,No,Don't know,No,No,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,NA
+334,8/27/2014 14:37,45,Male,Ireland,NA,Yes,No,Yes,Often,5-Jan,No,Yes,No,No,No,No,Don't know,Very difficult,No,No,No,No,No,No,Don't know,No,NA
+335,8/27/2014 14:37,29,m,Romania,NA,No,No,No,NA,25-Jun,Yes,No,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,No,No,NA
+336,8/27/2014 14:37,46,M,United States,WA,No,No,No,Never,26-100,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+337,8/27/2014 14:38,30,Male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+338,8/27/2014 14:38,29,F,United States,CA,Yes,No,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+339,8/27/2014 14:38,24,Male,United States,MA,No,No,No,NA,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,I think there might be some bugs in my thought but I haven't sought treatment because they're not worse than annoying and I worry about having the label.
+340,8/27/2014 14:38,29,male,United States,WA,No,No,No,NA,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,I think a lot of our policy is based on a situation that occurred in the past 5 years. A very public mental illness happened with a coworker that unfortunately ended negatively. It was definitely a catalyst to talking about our options but the overall sentiment of it being OK to take time off talk with your supervisors etc. has always been there. It's a great company.
+341,8/27/2014 14:38,35,Male,United States,MI,No,No,No,NA,26-100,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,NA
+342,8/27/2014 14:39,33,f,United States,WA,No,Yes,No,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,NA
+343,8/27/2014 14:39,27,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,No,No,Regardless of a stated lack of negative consequences for discussing mental health issues with coworkers/superiors unconscious bias is a very real thing - as long as I don't *need* to inform my co-workers my mental health issues do not need to be public knowledge.
+344,8/27/2014 14:41,36,Male,United States,IA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure,,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+345,8/27/2014 14:41,33,Male,United Kingdom,NA,No,No,No,Rarely,5-Jan,Yes,Yes,,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,NA
+346,8/27/2014 14:44,25,F,United States,WA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+347,8/27/2014 14:45,23,Male,United States,AL,No,Yes,Yes,Sometimes,100-500,No,No,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No,YOU MAY WANT TO THROW OUT MY ENTRY.I answered all of these questions with the assumption that Attention Deficit Disorder is considered a mental illness and with ADD in mind.
+348,8/27/2014 14:45,54,M,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,No,Yes,No,No,Don't know,No,NA
+349,8/27/2014 14:47,22,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+350,8/27/2014 14:47,25,non-binary,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,NA
+351,8/27/2014 14:49,29,Male,Belgium,NA,No,No,No,Often,25-Jun,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,Don't know,No,In Belgium we have all medical care so perhaps some question are not relevant
+352,8/27/2014 14:49,27,Male,United States,MA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,No,No,No,Yes,Yes,No,NA
+353,8/27/2014 14:51,30,Male,United Kingdom,NA,No,No,No,Never,25-Jun,No,Yes,No,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,A co-worker recently had mental health issues and my employer was very reasonable with them I don't know the full story but I do know that he was given ample time off and eased back in to the work place.
+354,8/27/2014 14:52,26,male,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+355,8/27/2014 14:52,25,Female,Sweden,NA,No,Yes,No,Sometimes,25-Jun,No,Yes,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,NA
+356,8/27/2014 14:53,31,Male,United States,CA,No,No,Yes,Sometimes,500-1000,No,No,No,Yes,No,Don't know,Yes,Don't know,No,No,Some of them,No,No,No,No,No,NA
+357,8/27/2014 14:54,33,M,United States,IN,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+358,8/27/2014 14:54,34,M,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,NA
+359,8/27/2014 14:57,34,Male,United States,WA,No,No,Yes,Sometimes,100-500,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,Some of them,No,Maybe,Don't know,No,NA
+360,8/27/2014 14:58,29,M,United States,IN,Yes,No,No,NA,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+361,8/27/2014 14:59,33,Femake,United States,WA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+362,8/27/2014 15:03,34,male,Germany,NA,Yes,Yes,Yes,Rarely,26-100,Yes,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,NA
+363,8/27/2014 15:04,26,male,United States,OK,Yes,Yes,Yes,Rarely,100-500,Yes,No,No,No,No,Don't know,No,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,NA
+364,8/27/2014 15:05,32,Male,United States,MI,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Yes,Yes,No,NA
+365,8/27/2014 15:05,329,Male,United States,OH,No,No,Yes,Often,25-Jun,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,NA
+366,8/27/2014 15:09,28,Male,United States,GA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,NA
+367,8/27/2014 15:11,35,Male,United States,CA,No,Yes,No,NA,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+368,8/27/2014 15:13,36,Male,United States,NA,No,Yes,Yes,Often,100-500,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+369,8/27/2014 15:14,21,Male,United States,IN,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,Don't know,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+370,8/27/2014 15:15,21,Male,United Kingdom,NA,No,No,Yes,Sometimes,25-Jun,No,No,Don't know,Not sure,No,No,No,Very easy,Yes,No,Some of them,No,No,Maybe,No,No,NA
+371,8/27/2014 15:15,22,F,United States,WA,No,No,No,NA,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat easy,No,No,No,Some of them,No,No,Yes,No,NA
+372,8/27/2014 15:20,41,m,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,NA
+373,8/27/2014 15:21,55,M,United States,PA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,My refer to the mental health issue of depression.  I might answer differently if I was talking about a more serious issue like schizophrenia
+374,8/27/2014 15:22,32,F,United States,WA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,My employer does what they can providing a wellness program and pointing it out after particularly stressful times. But the interaction between the wellness program and the medical insurance is unpleasant and finding a long-term therapist / psychiatrist covered by insurance is amazingly difficult. My current lack of active treatment is due to insurance friction more than workplace friction.
+375,8/27/2014 15:22,21,F,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Yes,Don't know,No,NA
+376,8/27/2014 15:22,45,M,United States,MA,No,No,Yes,Never,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,NA
+377,8/27/2014 15:22,27,female,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,Maybe,No,No,No,No,No,No,NA
+378,8/27/2014 15:22,25,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,NA
+379,8/27/2014 15:22,34,woman,United States,NY,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,I work for a university.
+380,8/27/2014 15:23,26,F,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,NA
+381,8/27/2014 15:23,41,Male,Canada,NA,No,No,Yes,Never,500-1000,No,Yes,Yes,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+382,8/27/2014 15:23,27,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+383,8/27/2014 15:23,31,Make,United States,IN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,NA
+384,8/27/2014 15:23,25,Male,Germany,NA,No,Yes,Yes,Often,26-100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Yes,No,No,NA
+385,8/27/2014 15:23,26,M,United States,NV,No,No,Yes,Sometimes,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,NA
+386,8/27/2014 15:23,27,female,United States,CO,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,No,Yes,No,No,Don't know,No,NA
+387,8/27/2014 15:23,42,Male,New Zealand,NA,No,No,No,Never,500-1000,No,Yes,,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+388,8/27/2014 15:24,29,Nah,United States,CA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,Yes,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,NA
+389,8/27/2014 15:24,25,female,United States,CA,No,No,Yes,Sometimes,25-Jun,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,NA
+390,8/27/2014 15:24,33,Female,Sweden,NA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Yes,Don't know,No,NA
+391,8/27/2014 15:24,99999999999,All,Zimbabwe,NA,Yes,Yes,Yes,Often,5-Jan,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,Yes,No,No,Yes,NA
+392,8/27/2014 15:24,40,female,United States,PA,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Don't know,No,NA
+393,8/27/2014 15:24,31,Male,United States,SC,No,No,No,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,Don't know,No,NA
+394,8/27/2014 15:24,26,Male,Canada,NA,No,Yes,Yes,Often,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,NA
+395,8/27/2014 15:24,24,female,United States,TX,No,Yes,No,NA,500-1000,No,No,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,NA
+396,8/27/2014 15:25,29,Male,United States,TX,No,No,No,Never,More than 1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+397,8/27/2014 15:25,48,M,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,NA
+398,8/27/2014 15:25,35,Male,United Kingdom,NA,No,No,No,Sometimes,25-Jun,No,Yes,No,No,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,NA
+399,8/27/2014 15:25,32,female,United States,AL,No,No,No,Never,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,NA
+400,8/27/2014 15:25,29,Male,Canada,NA,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,Being in Canada there are several health options that are available to Canadian citizens/perm residents for free so employers may not provide resources because they are available elsewhere. Otherwise good quiz. I hope this benefits everyone who's dealt with mental health issues in the past!
+401,8/27/2014 15:26,26,Male,United States,OR,No,Yes,Yes,Often,25-Jun,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,No,No,NA
+402,8/27/2014 15:26,28,Male,United States,NJ,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,NA
+403,8/27/2014 15:26,23,male,United States,CA,No,No,No,NA,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,No,NA
+404,8/27/2014 15:26,35,M,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,I'm troubled by the way that our hiring process tends to filter out non-neurotypicals of all stripes. Competent people who act a little funny can be hard to hire.
+405,8/27/2014 15:27,29,male,Germany,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+406,8/27/2014 15:27,26,Male,United States,CA,No,Yes,No,NA,25-Jun,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,No,No,NA
+407,8/27/2014 15:27,33,Male,United States,NH,No,Yes,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Yes,Some of them,No,No,Yes,No,NA
+408,8/27/2014 15:27,33,Male,United States,CA,No,No,No,NA,More than 1000,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,NA
+409,8/27/2014 15:28,22,Male,Brazil,NA,Yes,No,No,Never,25-Jun,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,No,Don't know,No,NA
+410,8/27/2014 15:28,30,female,Spain,NA,No,Yes,No,NA,500-1000,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,NA
+411,8/27/2014 15:29,33,male,United States,OH,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No,NA
+412,8/27/2014 15:29,31,Female,United States,OH,No,Yes,Yes,Rarely,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,NA
+413,8/27/2014 15:29,21,male,United States,MA,No,Yes,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Yes,NA
+414,8/27/2014 15:30,31,Enby,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Yes,Yes,No,NA
+415,8/27/2014 15:31,26,F,United States,OK,No,No,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,NA
+416,8/27/2014 15:31,30,Male,United States,CA,No,Yes,No,Often,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+417,8/27/2014 15:31,30,fluid,Germany,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,No,No,In Germany your employer doesn't really provide mental health benefits. There's a standard and I get that but I would get the same at any other company in Germany.
+418,8/27/2014 15:31,23,Male,India,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,NA
+419,8/27/2014 15:31,34,Male,Finland,NA,No,No,No,Never,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No,NA
+420,8/27/2014 15:31,55,M,United States,ID,No,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,Yes,NA
+421,8/27/2014 15:32,28,male,Germany,NA,No,Yes,Yes,Rarely,5-Jan,Yes,Yes,Yes,No,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,fwiw I am a co founder of this company and the would you X in an interview questions shouldn't reflect how I would treat anyone addressing their own phys/mental health issue to me in such a situation. 
+422,8/27/2014 15:32,26,M,Uruguay,NA,No,No,No,NA,26-100,Yes,Yes,Don't know,No,Don't know,No,Don't know,Don't know,No,No,Some of them,No,No,Yes,Don't know,No,NA
+423,8/27/2014 15:32,28,Male,New Zealand,NA,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,NA
+424,8/27/2014 15:34,32,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,No,No,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+425,8/27/2014 15:34,28,Female,United States,NY,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,NA
+426,8/27/2014 15:34,21,M,United States,CA,No,No,No,Sometimes,25-Jun,No,No,Don't know,Not sure,No,Yes,Yes,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,NA
+427,8/27/2014 15:35,24,Male,United States,TX,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,NA
+428,8/27/2014 15:35,26,Female,United States,MD,No,No,No,NA,More than 1000,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+429,8/27/2014 15:35,23,Male,United States,IN,No,No,No,NA,More than 1000,No,No,Yes,No,No,No,Don't know,Don't know,No,No,Yes,No,No,Yes,Don't know,No,NA
+430,8/27/2014 15:36,24,Female,United States,OR,No,No,No,NA,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Yes,No,NA
+431,8/27/2014 15:36,28,Male,Canada,NA,Yes,No,No,Never,100-500,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,NA
+432,8/27/2014 15:38,24,F,United States,NY,No,Yes,Yes,Rarely,25-Jun,No,Yes,No,No,No,No,Don't know,Very easy,Yes,No,No,Some of them,No,Yes,Yes,No,NA
+433,8/27/2014 15:38,33,male,United States,MS,Yes,No,Yes,Often,5-Jan,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Yes,Yes,Don't know,No,NA
+434,8/27/2014 15:38,34,male,United States,NJ,No,No,No,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,NA
+435,8/27/2014 15:38,27,female,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,I talked to a psychiatrist once about taking medical leave for mental health issues with his referral. He was willing to help but warned me that I may not want to as he's seen that sort of thing follow people throughout their tech careers (word gets out even if it's confidential at work). I've been terrified of bringing mental health up anywhere that coworkers or potential employers could see ever since.
+436,8/27/2014 15:38,28,Male,United States,TN,No,No,No,Never,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+437,8/27/2014 15:39,26,Male,United States,WA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Yes,NA
+438,8/27/2014 15:40,20,Male,Australia,NA,No,No,No,NA,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+439,8/27/2014 15:43,23,female,United States,MA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+440,8/27/2014 15:43,29,Male,United States,PA,No,Yes,Yes,Rarely,5-Jan,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+441,8/27/2014 15:43,26,Male,United Kingdom,NA,No,Yes,No,Sometimes,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,NA
+442,8/27/2014 15:43,36,Male,United States,KY,No,No,No,Rarely,More than 1000,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,NA
+443,8/27/2014 15:44,41,m,United States,PA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Yes,NA
+444,8/27/2014 15:44,33,female,United States,MA,No,No,No,NA,100-500,Yes,Yes,Yes,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,NA
+445,8/27/2014 15:46,23,M,Canada,NA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,NA
+446,8/27/2014 15:46,39,Male,United States,CA,No,Yes,No,Often,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,NA
+447,8/27/2014 15:47,34,M,United States,VT,No,Yes,No,NA,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,NA
+448,8/27/2014 15:47,26,F,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,NA
+449,8/27/2014 15:50,24,Male,United States,AZ,No,No,Yes,Rarely,26-100,No,Yes,Yes,Yes,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+450,8/27/2014 15:51,37,Male,Canada,NA,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+451,8/27/2014 15:53,43,Male,United States,MA,Yes,Yes,Yes,Often,25-Jun,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,So much depends upon the organization. 
+452,8/27/2014 15:53,40,Genderqueer,United States,VA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Yes,No,NA
+453,8/27/2014 15:54,30,male,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,No,Don't know,Very difficult,Yes,No,Some of them,No,No,No,No,Yes,NA
+454,8/27/2014 15:55,34,M,United States,CA,No,No,Yes,Sometimes,25-Jun,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,No,Now at starutp.  Previously worked at big tech company which was actually quite good at supporting mental health issues.  Still wouldn't share with bosses/other employees though as there remains a strong negative stigma.
+455,8/27/2014 15:55,27,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,NA
+456,8/27/2014 15:55,36,Male,United States,MI,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,NA
+457,8/27/2014 15:56,27,Male,Brazil,NA,No,No,No,Rarely,25-Jun,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,NA
+458,8/27/2014 15:58,35,Male,Netherlands,NA,No,Yes,No,Never,100-500,No,Yes,Yes,No,No,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Nice job on the text field for gender :-)
+459,8/27/2014 15:59,32,Male,United Kingdom,NA,No,No,No,Never,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,Yes,No,NA
+460,8/27/2014 15:59,37,M,United States,OR,No,No,No,NA,500-1000,No,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+461,8/27/2014 16:00,29,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+462,8/27/2014 16:01,33,Female ,United States,CA,No,No,No,Never,500-1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,No,Some of them,Yes,No,No,Yes,No,I currently have the best managers I've ever worked with. I don't have any issues but one of my coworkers recently did and it was handled extremely well. 
+463,8/27/2014 16:01,28,Make,United States,UT,No,No,No,Sometimes,25-Jun,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,NA
+464,8/27/2014 16:02,26,Female,United States,CA,No,Yes,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Maybe,No,No,NA
+465,8/27/2014 16:03,27,M,United States,TX,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,Yes,No,NA
+466,8/27/2014 16:04,38,Male,United Kingdom,NA,Yes,No,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,NA
+467,8/27/2014 16:06,57,M,United States,CA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,NA
+468,8/27/2014 16:07,28,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,Yes,No,No,No,No,No,Very difficult,Yes,Maybe,No,Some of them,No,Maybe,No,No,NA
+469,8/27/2014 16:10,26,male,France,NA,No,No,No,Never,25-Jun,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,No,No,NA
+470,8/27/2014 16:11,42,f,Netherlands,NA,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,NA
+471,8/27/2014 16:13,31,Male,United States,OR,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+472,8/27/2014 16:13,58,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Yes,No,NA
+473,8/27/2014 16:13,29,Male,United States,OH,No,No,No,Sometimes,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,NA
+474,8/27/2014 16:14,39,Female,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,NA
+475,8/27/2014 16:14,34,Male,United States,OH,No,No,No,Sometimes,25-Jun,Yes,Yes,Don't know,No,No,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+476,8/27/2014 16:15,57,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,NA
+477,8/27/2014 16:15,27,Male,Germany,NA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,No,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,NA
+478,8/27/2014 16:16,23,male,Germany,NA,Yes,Yes,Yes,Often,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,Maybe,Yes,Yes,Maybe,Yes,Don't know,No,you rock for doing this!
+479,8/27/2014 16:16,18,male,Finland,NA,No,No,No,NA,500-1000,Yes,No,Don't know,No,No,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,Don't know,No,NA
+480,8/27/2014 16:17,30,female,United States,NY,No,No,No,NA,100-500,No,Yes,,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+481,8/27/2014 16:17,23,Male,United States,VA,No,No,No,Never,26-100,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,NA
+482,8/27/2014 16:18,43,M,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Yes,Don't know,No,NA
+483,8/27/2014 16:19,18,Female,United Kingdom,NA,No,Yes,Yes,Sometimes,5-Jan,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,I don't have a job :D
+484,8/27/2014 16:19,29,male,United States,IL,No,No,Yes,Rarely,25-Jun,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+485,8/27/2014 16:20,48,M,United States,TX,No,No,No,Never,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+486,8/27/2014 16:20,43,male,Germany,NA,No,No,Yes,Sometimes,26-100,No,No,No,Yes,Don't know,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,No,Yes,NA
+487,8/27/2014 16:21,28,Female,United States,NY,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,NA
+488,8/27/2014 16:21,30,Male,United States,CA,Yes,Yes,Yes,Often,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,NA
+489,8/27/2014 16:21,26,Male,Israel,MD,No,No,No,Sometimes,25-Jun,No,Yes,No,No,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Israel has public health insurance for everyone. Everyone has free mental health coverage and it's quite good. So that explains some of my answers.
+490,8/27/2014 16:21,33,Male,Italy,NA,No,No,No,Never,25-Jun,No,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,NA
+491,8/27/2014 16:22,31,Male,United States,CA,No,No,No,NA,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Yes,Don't know,No,No,No,Some of them,No,No,Yes,No,NA
+492,8/27/2014 16:22,30,M,United States,PA,No,No,No,Rarely,100-500,No,No,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+493,8/27/2014 16:23,27,Male,Israel,NA,No,No,No,NA,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,NA
+494,8/27/2014 16:25,24,Female,United States,CA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,NA
+495,8/27/2014 16:26,25,male,United States,WA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+496,8/27/2014 16:27,23,Female,United States,NY,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Yes,NA
+497,8/27/2014 16:27,36,m,United States,TX,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,Stigma is the worst. People first language is a small step but we can't get that right.
+498,8/27/2014 16:28,25,female,United States,CA,Yes,Yes,Yes,Often,5-Jan,Yes,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,NA
+499,8/27/2014 16:28,54,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,Yes,No,No,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,No,No,NA
+500,8/27/2014 16:29,34,Male,Netherlands,NA,No,No,No,Rarely,25-Jun,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,-
+501,8/27/2014 16:29,38,female,United States,AZ,No,No,Yes,NA,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Maybe,No,No,No,No,No,No,NA
+502,8/27/2014 16:31,40,Male,Ireland,NA,Yes,Yes,No,NA,More than 1000,No,Yes,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,NA
+503,8/27/2014 16:32,32,male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,No,Not sure,No,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No,NA
+504,8/27/2014 16:34,25,Male,Germany,NA,No,No,No,Never,More than 1000,No,No,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,NA
+505,8/27/2014 16:35,35,Female,United States,OH,No,No,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,NA
+506,8/27/2014 16:36,46,male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,NA
+507,8/27/2014 16:39,42,male,United States,KS,No,No,No,Never,100-500,No,No,Yes,No,Yes,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Maybe,Yes,No,No,NA
+508,8/27/2014 16:39,32,male,United Kingdom,NA,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Yes,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+509,8/27/2014 16:40,47,M,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Yes,Yes,No,NA
+510,8/27/2014 16:42,22,Male,United States,CA,No,No,No,NA,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+511,8/27/2014 16:42,33,Female,United States,NY,No,No,Yes,Sometimes,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+512,8/27/2014 16:47,25,f,United States,WA,No,No,No,Sometimes,25-Jun,No,Yes,No,No,No,No,No,Somewhat easy,Maybe,No,Some of them,No,No,No,Yes,No,NA
+513,8/27/2014 16:53,29,M,United States,CA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+514,8/27/2014 16:55,39,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,I work for an extremely supportive company and we are amazingly open about mental health issues. Employees often share their struggles with the whole team and receive a high level of support in return.
+515,8/27/2014 17:00,38,male,United States,VA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,No,No,No,No,No,No,No,NA
+516,8/27/2014 17:03,43,Male,United States,NC,No,No,No,NA,25-Jun,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+517,8/27/2014 17:04,46,Male,United States,OH,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+518,8/27/2014 17:08,38,Female,United States,PA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Yes,Yes,No,No,No,Yes,NA
+519,8/27/2014 17:09,33,Male,Germany,NA,No,No,Yes,Sometimes,25-Jun,No,Yes,Yes,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,NA
+520,8/27/2014 17:10,34,Male,United Kingdom,NA,No,Yes,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,No,No,NA
+521,8/27/2014 17:12,62,M,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+522,8/27/2014 17:14,23,F,United States,TX,No,No,No,NA,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+523,8/27/2014 17:15,35,Male,United States,AZ,No,No,No,NA,More than 1000,No,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,NA
+524,8/27/2014 17:19,25,Male,Bosnia and Herzegovina,NA,No,Yes,No,Rarely,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Yes,No,No,No,No,Don't know,Yes,NA
+525,8/27/2014 17:22,36,M,United States,IL,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,Don't know,Yes,Don't know,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,Yes,No,NA
+526,8/27/2014 17:32,41,Female,United States,NA,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,NA
+527,8/27/2014 17:33,24,male,Austria,NA,Yes,No,No,Sometimes,5-Jan,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,NA
+528,8/27/2014 17:33,51,Male,New Zealand,NA,No,No,Yes,Sometimes,26-100,Yes,Yes,No,Yes,Yes,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,Don't know,Yes,NA
+529,8/27/2014 17:33,29,M,United States,NC,No,No,Yes,Sometimes,25-Jun,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,No,Some of them,No,No,Yes,No,NA
+530,8/27/2014 17:37,31,Female,Canada,NA,Yes,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,NA
+531,8/27/2014 17:39,27,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,No,NA
+532,8/27/2014 17:41,31,Male,Australia,NA,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No,No,NA
+533,8/27/2014 17:42,27,female,Hungary,NA,Yes,Yes,No,Sometimes,5-Jan,Yes,Yes,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,NA
+534,8/27/2014 17:46,23,Male,Sweden,NA,No,No,No,Rarely,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+535,8/27/2014 17:47,21,Male,Canada,NA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+536,8/27/2014 17:48,27,Female,Australia,NA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,No,NA
+537,8/27/2014 17:49,39,M,United States,WI,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,No,No,No,NA
+538,8/27/2014 17:49,26,M,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,No,No,NA
+539,8/27/2014 17:52,27,Male,United Kingdom,NA,No,No,No,Never,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+540,8/27/2014 17:56,22,Female,United States,CA,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,No,Yes,NA
+541,8/27/2014 18:00,26,F,United States,MN,No,Yes,Yes,Often,100-500,No,No,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,NA
+542,8/27/2014 18:02,31,Female,United States,PA,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,NA
+543,8/27/2014 18:02,32,male,United Kingdom,NA,No,No,No,Never,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,No,NA
+544,8/27/2014 18:12,28,female,United States,CA,No,Yes,Yes,Often,100-500,Yes,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,No,Yes,NA
+545,8/27/2014 18:13,28,Androgyne,United Kingdom,NA,No,Yes,Yes,Rarely,100-500,No,Yes,No,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,Some of them,Some of them,Yes,No,No,Yes,I bring up my depression in interviews solely because I have a large gap on my CV due to mental health issues which could be mistaken for a gap taken to say have children which I feel would harm my chances much more. I have other MH issues I would never bring up with employers or peers.
+546,8/27/2014 18:14,23,female,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,Maybe,No,No,Some of them,No,Yes,Yes,No,NA
+547,8/27/2014 18:16,30,Male,United Kingdom,NA,No,No,No,Never,26-100,Yes,Yes,,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+548,8/27/2014 18:18,36,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,Yes,No,Yes,No,No,NA
+549,8/27/2014 18:22,21,M,United States,CA,No,Yes,No,NA,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+550,8/27/2014 18:29,30,male,Germany,NA,No,No,No,Often,26-100,No,Yes,No,No,Don't know,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,NA
+551,8/27/2014 18:39,25,Woman,United States,CA,No,Yes,No,NA,500-1000,No,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,I'm not aware of anyone with mental health issues at work it's definitely not something that's discussed publicly. There's also a lot of other personal info I don't know about my coworkers so it may just be that we tend not to talk about personal issues.
+552,8/27/2014 18:41,32,Male,New Zealand,NA,No,No,Yes,Sometimes,25-Jun,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,I suffer from mild depression and anxiety.
+553,8/27/2014 18:43,29,female,Canada,NA,No,No,Yes,Sometimes,5-Jan,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,The family history question needs a don't know option.
+554,8/27/2014 18:56,21,Agender,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,NA
+555,8/27/2014 18:59,27,Female,New Zealand,NA,No,Yes,Yes,Rarely,100-500,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,NA
+556,8/27/2014 19:05,32,Female,Canada,NA,No,No,Yes,Often,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+557,8/27/2014 19:08,34,M,Australia,NA,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+558,8/27/2014 19:13,33,M,United States,NY,No,No,No,NA,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,I'm afraid I haven't seen mental health issues arise at work yet. They are very accommodating with maternity leave but I don't know how that translates to anything else.
+559,8/27/2014 19:13,22,Male,Netherlands,NA,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,No,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,NA
+560,8/27/2014 19:16,24,M,United States,CA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,NA
+561,8/27/2014 19:17,65,Male,United States,FL,Yes,No,No,NA,25-Jun,Yes,No,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,NA
+562,8/27/2014 19:25,27,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,No,No,No,Yes,No,NA
+563,8/27/2014 19:27,33,Male,Australia,NA,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,NA
+564,8/27/2014 19:28,36,Male,United States,CO,No,No,Yes,Rarely,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+565,8/27/2014 19:34,40,Male,Canada,NA,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,No,No,NA
+566,8/27/2014 19:34,28,male,United States,GA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No,NA
+567,8/27/2014 19:38,39,Male,United States,OR,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Not sure,Yes,Don't know,Yes,Don't know,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,NA
+568,8/27/2014 19:41,32,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Yes,Don't know,No,NA
+569,8/27/2014 19:45,31,male,United States,CA,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Yes,No,No,Mental health issue I have dealt with: acute depression
+570,8/27/2014 19:59,38,Make,United States,PA,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,NA
+571,8/27/2014 20:13,23,Male,United States,CA,No,Yes,Yes,Rarely,5-Jan,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,NA
+572,8/27/2014 20:17,42,Make,United States,CA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+573,8/27/2014 20:33,27,Female,United States,NY,No,No,No,Sometimes,500-1000,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,NA
+574,8/27/2014 20:48,26,Female,United States,MA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,No,Yes,NA
+575,8/27/2014 20:52,50,Male,United States,NA,No,No,No,Never,26-100,Yes,Yes,No,Yes,No,No,Don't know,Don't know,No,No,No,No,No,Maybe,No,No,NA
+576,8/27/2014 20:52,37,Male,United States,PA,No,Yes,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,NA
+577,8/27/2014 20:53,23,Male,United States,RI,No,No,No,NA,26-100,No,Yes,Don't know,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,NA
+578,8/27/2014 20:55,33,M,United States,MI,No,Yes,No,Sometimes,25-Jun,Yes,Yes,Don't know,Not sure,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+579,8/27/2014 21:05,29,male,Canada,NA,Yes,No,No,Never,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,Yes,No,No,NA
+580,8/27/2014 21:15,34,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,Yes,No,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Thanks for doing this. It will help end the stigma!
+581,8/27/2014 21:17,41,male,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes,NA
+582,8/27/2014 21:21,50,Male,United States,OR,No,Yes,No,NA,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+583,8/27/2014 21:35,29,Male,Canada,NA,No,No,Yes,Never,More than 1000,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,Don't know,Yes,For clarity I work at a casino.
+584,8/27/2014 21:39,35,Male,United States,IN,No,No,No,Never,25-Jun,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+585,8/27/2014 21:45,27,Male,Singapore,NA,No,No,No,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Yes,Don't know,Yes,No,Some of them,Yes,No,No,No,No,Most employers / coworkers and even immediate family is not all the time supportive to discuss depression and other problems. ie. My wife thinks she should be able to make sure that I am not depressed  which is funny because sometimes depression state has nothing to do with her. 
+586,8/27/2014 21:54,40,Female,United States,MA,No,No,No,Never,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+587,8/27/2014 21:54,27,Male,Australia,NA,No,No,Yes,Often,100-500,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,NA
+588,8/27/2014 21:55,29,f,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,NA
+589,8/27/2014 22:00,31,Male,United States,OH,No,Yes,Yes,Sometimes,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,NA
+590,8/27/2014 22:04,43,Male,United States,OH,No,No,Yes,Sometimes,25-Jun,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No,NA
+591,8/27/2014 22:04,34,Male,United States,NH,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,NA
+592,8/27/2014 22:06,29,Male,United States,OH,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,It has come to interfere with work as life progresses.Between burn out and enduring more of the work and balancing a family. Changes in my mental health have a larger pond to make ripples in.
+593,8/27/2014 22:07,19,Male,Canada,NA,No,Yes,Yes,Sometimes,5-Jan,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,NA
+594,8/27/2014 22:11,41,m,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,NA
+595,8/27/2014 22:12,29,Male,United States,OR,No,Yes,No,Never,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+596,8/27/2014 22:13,23,Male,United States,PA,No,No,No,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,NA
+597,8/27/2014 22:14,24,Female,United States,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,NA
+598,8/27/2014 22:14,31,M,United States,NY,No,No,No,NA,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,NA
+599,8/27/2014 22:21,43,Male,United States,WA,No,No,No,NA,500-1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,NA
+600,8/27/2014 22:26,31,Male,United States,NY,No,Yes,Yes,Rarely,100-500,No,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No,Yes,NA
+601,8/27/2014 22:32,29,Male,United States,CA,No,Yes,No,Often,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+602,8/27/2014 22:35,35,Male,United States,TN,Yes,Yes,No,NA,25-Jun,Yes,Yes,No,No,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,The supposed divide between mental and physical health needs to done away with and probably will be as our knowledge of the brain increases. That said we are often employed for our ability to provide value. If any issue prevents is from providing value that creates a very real challenge for the employer who is responsible to shareholders and other team members who are providing value. There are no easy answers here.
+603,8/27/2014 22:36,33,Male,United States,WI,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,NA
+604,8/27/2014 22:55,30,cis-female/femme,United States,WI,Yes,Yes,Yes,Often,5-Jan,Yes,No,No,Yes,No,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Because I'm self-employed and the only person in my organization I would have liked a not applicable option. I don't want my answers to be misleading.
+605,8/27/2014 22:59,27,male,United States,PA,No,No,No,NA,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Yes,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,NA
+606,8/27/2014 23:09,32,Male,United States,MI,No,No,No,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,NA
+607,8/27/2014 23:10,50,Male,United States,WY,No,No,No,Sometimes,5-Jan,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,I work for a very small firm that doesn't really have a dedicated H/R person. Also for the question:If you have a mental health condition do you feel that it interferes with your work?...I don't have a diagnosed mental health condition but I suspect I might have some slight depression issues. Definitely have Imposter Syndrome.
+608,8/27/2014 23:10,24,male,United States,KY,No,No,No,Never,26-100,No,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,No,NA
+609,8/27/2014 23:14,27,Male,United States,NY,No,No,No,NA,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,NA
+610,8/27/2014 23:30,27,Male,Australia,NA,No,No,No,Never,5-Jan,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,NA
+611,8/27/2014 23:54,32,Male,United States,TX,No,No,Yes,Sometimes,25-Jun,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,I went through a divorce and was pretty depressed I went to therapy and my boss (one of the owners) was extremely supportive. I'm not sure I would have got through that rough time with out my co-workers and boss.
+612,8/27/2014 23:56,42,Male,United States,WI,Yes,No,No,Rarely,25-Jun,Yes,No,No,Yes,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+613,8/27/2014 23:57,37,Male,United States,WA,No,No,No,Often,More than 1000,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,NA
+614,8/27/2014 23:59,30,Male,Singapore,NA,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes,NA
+615,8/28/2014 0:02,29,Male,United States,WA,No,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,NA
+616,8/28/2014 0:05,30,Male,United States,GA,Yes,No,Yes,Often,25-Jun,Yes,Yes,No,Not sure,No,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,NA
+617,8/28/2014 0:17,35,Male,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,NA
+618,8/28/2014 0:43,35,Male,United States,MD,No,Yes,Yes,Rarely,100-500,Yes,No,Yes,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,I'm diagnosed with Bipolar Disorder. My benefits for mental health exist but are terrible. The deductible is $800. I see a therapist once or twice a month at the cost of $150. The insurance company only values it at $40. My psychiatrist is $180 for 15 minutes. The insurance company values it at $80. It is IMPOSSIBLE to hit my deductible. I don't even bother making the claims.
+619,8/28/2014 0:47,38,male,Netherlands,NA,No,Yes,No,Often,26-100,Yes,Yes,No,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+620,8/28/2014 1:04,22,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,NA
+621,8/28/2014 1:14,24,m,Germany,NA,No,Yes,No,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Don't know,No,We don't fucking talk about it ever.
+622,8/28/2014 1:19,22,M,Netherlands,NA,Yes,No,No,Never,5-Jan,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes,NA
+623,8/28/2014 1:30,31,Female,United States,WA,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,NA
+624,8/28/2014 1:38,23,female,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,No,NA
+625,8/28/2014 1:41,31,Female,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+626,8/28/2014 1:56,28,Female,United States,CA,No,Yes,Yes,Rarely,500-1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,No,Some of them,No,No,No,No,NA
+627,8/28/2014 2:15,37,Guy (-ish) ^_^,Canada,NA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,NA
+628,8/28/2014 2:17,34,male,United States,CA,Yes,Yes,Yes,Sometimes,25-Jun,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,No,No,thanks for what you're doing. FYI these questions dont quite work for entrepreneurs where employer == cofounders / sr mgmt / me
+629,8/28/2014 2:19,32,male leaning androgynous,Canada,NA,No,No,No,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,NA
+630,8/28/2014 2:30,28,Male,United States,MI,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Yes,NA
+631,8/28/2014 2:32,24,Female,United Kingdom,NA,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,NA
+632,8/28/2014 2:41,56,Male ,United States,MA,No,Yes,Yes,Rarely,25-Jun,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+633,8/28/2014 2:46,31,Male,Germany,NA,No,No,No,Sometimes,25-Jun,Yes,Yes,No,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+634,8/28/2014 2:49,34,female,United States,CA,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,NA
+635,8/28/2014 2:52,35,m,Germany,NA,No,No,Yes,Rarely,100-500,No,No,Don't know,No,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+636,8/28/2014 2:54,28,male,Germany,NA,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Don't know,No,NA
+637,8/28/2014 3:05,36,male,Poland,NA,Yes,Yes,Yes,Often,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,Yes,NA
+638,8/28/2014 3:06,30,Male,United Kingdom,NA,No,No,Yes,Often,26-100,No,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+639,8/28/2014 3:13,35,Male,United States,NA,Yes,No,No,NA,5-Jan,Yes,Yes,Yes,Not sure,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+640,8/28/2014 3:13,49,male,Japan,NA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,Yes,Yes,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,NA
+641,8/28/2014 3:15,36,Male,Germany,NA,No,No,No,NA,26-100,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+642,8/28/2014 3:16,35,male,Germany,NA,No,No,No,NA,26-100,No,Yes,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+643,8/28/2014 3:29,29,Female,Australia,NA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,Yes,NA
+644,8/28/2014 3:36,57,Male,United States,CA,No,No,No,Never,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,NA
+645,8/28/2014 3:42,31,female,Belgium,NA,No,Yes,Yes,Rarely,100-500,No,No,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Yes,NA
+646,8/28/2014 3:47,37,Male,Ireland,NA,Yes,No,No,Never,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+647,8/28/2014 3:49,25,Male,Ireland,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,NA
+648,8/28/2014 3:52,30,Male,Australia,NA,No,No,No,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+649,8/28/2014 4:00,26,F,Australia,NA,No,Yes,No,Sometimes,100-500,No,No,No,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Majority of qs on survey not relevant if you are self employed
+650,8/28/2014 4:02,22,Female,Netherlands,NA,No,No,No,Often,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,No,No,No,Some of them,No,Yes,Don't know,No,NA
+651,8/28/2014 4:07,39,M,United States,FL,No,No,No,Rarely,More than 1000,Yes,No,,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,I mostly suffer from social anxiety which keeps me from attending conferences. In my small dev group a big problem is a supervisor who's a workaholic and will never say no when asked to do something so he's doing the job of at least two ppl (poorly) and working crazy hours setting the tone for the test of us that work/life balance isn't important.
+652,8/28/2014 4:09,29,Male,United Kingdom,NA,No,Yes,Yes,Never,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,NA
+653,8/28/2014 4:11,54,male,United Kingdom,NA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,Yes,Yes,Don't know,Yes,NA
+654,8/28/2014 4:16,34,Female,Australia,NA,No,Yes,No,Never,500-1000,No,No,Don't know,No,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,Yes,I don't have any mental health issues but for a number of years I had to care for a family member who did and I felt that I was not able to discuss or get support from friends or colleagues in the same way that I might have if they had suffered from a physical condition.
+655,8/28/2014 4:23,32,M,United States,WA,No,No,Yes,Never,500-1000,No,No,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,No,No,No,No,No,Yes,No,NA
+656,8/28/2014 4:24,25,Male,Nigeria,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,NA
+657,8/28/2014 4:30,29,male,Poland,NA,No,No,No,Rarely,5-Jan,No,Yes,No,No,No,No,No,Somewhat difficult,No,Maybe,Some of them,No,No,No,Yes,No,NA
+658,8/28/2014 4:34,32,male,Germany,NA,Yes,No,No,Never,5-Jan,Yes,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+659,8/28/2014 4:37,30,M,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,Some of them,Yes,No,Yes,Yes,No,NA
+660,8/28/2014 4:53,31,male,Germany,NA,No,No,No,NA,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+661,8/28/2014 5:05,20,F,Switzerland,NA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+662,8/28/2014 5:12,27,Male,United Kingdom,NA,No,No,No,Never,5-Jan,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+663,8/28/2014 5:14,32,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+664,8/28/2014 6:02,26,Male,Ireland,NA,Yes,No,No,Never,5-Jan,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+665,8/28/2014 6:05,30,Male,Italy,NA,No,No,No,Sometimes,More than 1000,No,No,Don't know,No,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+666,8/28/2014 6:10,30,Male,Ireland,NA,No,No,Yes,Sometimes,26-100,Yes,Yes,No,No,Don't know,No,Don't know,Very difficult,Maybe,Maybe,Some of them,No,No,No,No,No,NA
+667,8/28/2014 6:11,22,male,India,NA,Yes,No,No,NA,5-Jan,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Yes,Yes,NA
+668,8/28/2014 6:27,24,male,Ireland,NA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,NA
+669,8/28/2014 6:30,26,m,Netherlands,NA,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,NA
+670,8/28/2014 7:01,43,male,France,NA,No,No,No,NA,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+671,8/28/2014 7:03,26,Male,Russia,NA,No,No,No,Never,26-100,No,Yes,No,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,Maybe,Don't know,No,NA
+672,8/28/2014 7:03,23,Male,United States,NC,No,Yes,No,Sometimes,25-Jun,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+673,8/28/2014 7:12,26,Man,Canada,NA,No,No,No,NA,100-500,Yes,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,NA
+674,8/28/2014 8:00,26,female,Israel,NA,No,Yes,No,Never,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,NA
+675,8/28/2014 8:06,35,Male,Canada,NA,No,Yes,No,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,NA
+676,8/28/2014 8:18,28,Male,United States,IL,No,No,Yes,Sometimes,26-100,Yes,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+677,8/28/2014 8:23,22,Male,India,NA,No,No,No,NA,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+678,8/28/2014 8:39,29,Female,United States,OH,No,Yes,Yes,Rarely,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,NA
+679,8/28/2014 8:40,29,Male,Germany,NA,Yes,No,No,NA,5-Jan,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,NA
+680,8/28/2014 8:43,45,Male,United States,VA,No,No,Yes,Often,5-Jan,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,NA
+681,8/28/2014 8:43,33,male,Bulgaria,NA,No,No,Yes,Rarely,26-100,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,NA
+682,8/28/2014 8:43,38,Male,United States,MN,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+683,8/28/2014 9:02,19,Trans woman,United States,MO,No,Yes,Yes,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,Maybe,No,No,NA
+684,8/28/2014 9:09,29,female,Canada,NA,No,No,Yes,Rarely,More than 1000,Yes,No,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,Don't know,No,NA
+685,8/28/2014 9:16,21,Female,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,NA
+686,8/28/2014 9:18,23,Female,India,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,NA
+687,8/28/2014 9:40,33,female,United States,NC,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+688,8/28/2014 9:53,49,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,NA
+689,8/28/2014 9:53,28,Male,United States,NM,No,No,No,NA,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+690,8/28/2014 9:54,27,f,United Kingdom,NA,No,No,Yes,Sometimes,25-Jun,Yes,Yes,Don't know,Not sure,Yes,Don't know,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+691,8/28/2014 9:54,23,male,Canada,NA,No,No,Yes,Sometimes,25-Jun,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+692,8/28/2014 9:54,29,M,Netherlands,NA,No,No,No,Never,5-Jan,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,NA
+693,8/28/2014 9:54,30,m,Germany,NA,No,No,No,NA,26-100,No,Yes,Don't know,No,No,Don't know,Yes,Somewhat easy,No,No,Some of them,No,Maybe,Maybe,Don't know,No,NA
+694,8/28/2014 9:55,28,Female,Canada,NA,No,No,No,NA,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,I am a contractor so my lack of knowledge of workplace wellness stems directly from my lack of access to that material since I am not covered by it. I am aware that mental health services are available and am aware of a colleague who has taken a leave of absence to deal with mental health issues but am otherwise uninformed.
+695,8/28/2014 9:56,32,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Yes,No,No,NA
+696,8/28/2014 9:56,32,Male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,NA
+697,8/28/2014 9:56,37,Male,France,NA,No,No,No,NA,100-500,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,NA
+698,8/28/2014 9:56,39,F,United States,TX,No,No,No,NA,More than 1000,Yes,No,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,NA
+699,8/28/2014 9:56,31,male,France,NA,No,No,No,NA,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,No,NA
+700,8/28/2014 9:57,29,Male,United States,SC,No,No,No,NA,25-Jun,No,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,NA
+701,8/28/2014 9:57,30,M,United States,FL,No,No,No,NA,100-500,No,No,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+702,8/28/2014 9:57,33,M,United States,WA,Yes,Yes,Yes,Rarely,5-Jan,Yes,Yes,No,Yes,Yes,Yes,No,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes,NA
+703,8/28/2014 9:58,37,male,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,NA
+704,8/28/2014 9:59,23,Male,United States,OH,No,No,Yes,Often,26-100,No,No,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+705,8/28/2014 9:59,43,M,United States,TN,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Not sure,No,Yes,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No,NA
+706,8/28/2014 10:00,32,Male,United Kingdom,NA,No,No,Yes,Rarely,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,No,Yes,NA
+707,8/28/2014 10:01,26,Male,United States,NY,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,NA
+708,8/28/2014 10:01,32,Male,United States,NY,Yes,No,Yes,Sometimes,5-Jan,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,NA
+709,8/28/2014 10:02,37,F,United States,MO,No,No,No,NA,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No,NA
+710,8/28/2014 10:02,29,Male,United States,NY,No,No,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+711,8/28/2014 10:02,34,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No,NA
+712,8/28/2014 10:04,27,male,France,NA,No,No,No,NA,25-Jun,No,Yes,Don't know,Not sure,,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,NA
+713,8/28/2014 10:04,30,male,United States,TN,No,Yes,No,Never,100-500,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+714,8/28/2014 10:05,29,Male,United States,CO,No,No,No,Never,25-Jun,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,NA
+715,8/28/2014 10:07,32,Male,United States,PA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,No,No,NA
+716,8/28/2014 10:07,-1726,male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,No,No,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,NA
+717,8/28/2014 10:08,25,Male,Germany,NA,No,No,No,NA,500-1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,Yes,Yes,Yes,No,NA
+718,8/28/2014 10:08,37,male,United States,NY,Yes,No,No,NA,25-Jun,Yes,Yes,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+719,8/28/2014 10:10,29,Male,Netherlands,NA,No,Yes,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+720,8/28/2014 10:11,27,Man,United States,MN,No,No,No,NA,26-100,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,NA
+721,8/28/2014 10:13,33,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+722,8/28/2014 10:15,30,male,Canada,NA,No,Yes,Yes,Sometimes,More than 1000,No,No,Don't know,No,No,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,Yes,NA
+723,8/28/2014 10:16,29,male,Canada,NA,No,No,No,NA,5-Jan,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Yes,Yes,No,Maybe,Don't know,No,NA
+724,8/28/2014 10:17,25,Male,United States,MO,No,Yes,Yes,Never,25-Jun,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,No,NA
+725,8/28/2014 10:18,33,Male,United States,WY,No,Yes,Yes,Sometimes,5-Jan,No,No,No,Yes,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+726,8/28/2014 10:18,31,Male,South Africa,NA,No,No,No,Never,100-500,Yes,Yes,No,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,Fully remote developer
+727,8/28/2014 10:20,21,male,Germany,NA,No,No,No,Rarely,25-Jun,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,NA
+728,8/28/2014 10:22,30,Male,Switzerland,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,NA
+729,8/28/2014 10:24,29,Male,United States,MN,No,No,No,NA,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,NA
+730,8/28/2014 10:25,43,Male,Croatia,NA,Yes,No,Yes,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Yes,Very difficult,Yes,No,Yes,No,No,Maybe,No,Yes,NA
+731,8/28/2014 10:29,37,m,United Kingdom,NA,No,No,Yes,Often,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,Yes,Yes,Maybe,Yes,No,No,NA
+732,8/28/2014 10:30,24,Male,France,NA,No,No,No,NA,26-100,No,Yes,No,No,Yes,No,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,NA
+733,8/28/2014 10:30,29,Male,United States,MD,No,No,No,NA,25-Jun,Yes,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,NA
+734,8/28/2014 10:34,31,Male,United States,KY,No,No,No,NA,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Don't know,No,NA
+735,8/28/2014 10:35,5,Male,United States,OH,No,No,No,NA,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,We had a developer suffer from depression and pretty hard burnout but he refused treatment even when the company said we'd foot the bill. Eventually he had to be asked to resign which was a shame. I don't know if we have any specific programs for mental health but we're definitely on the lookout for those types of issues.
+736,8/28/2014 10:42,33,Male,United Kingdom,NA,Yes,No,No,Never,100-500,No,No,No,Not sure,No,No,Don't know,Very easy,No,No,Yes,Some of them,No,Yes,No,No,NA
+737,8/28/2014 10:45,43,male,United States,NY,No,No,No,NA,More than 1000,No,No,Yes,Yes,Don't know,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+738,8/28/2014 10:47,33,Male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+739,8/28/2014 10:51,27,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,Yes,Yes,Don't know,Maybe,No,Yes,Some of them,No,Yes,Yes,No,NA
+740,8/28/2014 10:52,36,Male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+741,8/28/2014 10:54,37,male,Australia,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,NA
+742,8/28/2014 10:57,32,male,Belgium,NA,No,No,No,NA,25-Jun,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No,NA
+743,8/28/2014 11:02,39,Male,United Kingdom,NA,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Very easy,No,No,No,Some of them,No,Yes,Yes,No,NA
+744,8/28/2014 11:04,31,Male,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,NA
+745,8/28/2014 11:04,36,Male,United States,OH,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,I am a 15 year vet of the industry and I get 2 weeks of combined sick and vacation time a year and I have children to fit into that too. I've had heart problems from the stress. Fuck everything about startup culture. 
+746,8/28/2014 11:07,30,Male,United States,TX,Yes,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,No,NA
+747,8/28/2014 11:09,28,male,Canada,NA,No,No,No,NA,25-Jun,No,Yes,Yes,Not sure,No,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+748,8/28/2014 11:10,32,Male,Italy,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,No,Somewhat difficult,Maybe,No,Some of them,No,Maybe,Maybe,No,No,Italians are somewhat behind for what concerns mental health care in the workplace.  Physical health care is very much accepted with a doctor that certifies your ailment.  Mental health is treated quite differently I believe because most people are willing to admit that physical ailments should be covered while mental ailments are almost considered non-existent in most respects.  
+749,8/28/2014 11:14,35,Male,United States,CA,No,Yes,Yes,Rarely,25-Jun,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Since I am the CEO of my startup some of the would you feel comfortable and do you know the policy questions are interesting.  Of course I feel comfortable since no one can fire me and I know the policies because I chose them!However now I am curious if my employees know just how supportive the company would be of their mental health needs and this survey is making me realize that we probably haven't done a great job communicating that to everyone.  Thanks for doing this.
+750,8/28/2014 11:15,19,Male,Canada,NA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,Yes,Don't know,No,NA
+751,8/28/2014 11:19,33,m,Norway,NA,No,Yes,No,NA,26-100,No,Yes,Yes,Yes,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+752,8/28/2014 11:20,42,male,Germany,NA,No,No,No,NA,More than 1000,Yes,Yes,,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No,NA
+753,8/28/2014 11:21,37,Male,United States,MI,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+754,8/28/2014 11:21,40,Male,Thailand,NA,Yes,No,No,Never,25-Jun,No,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+755,8/28/2014 11:22,36,M,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+756,8/28/2014 11:26,29,Female,United States,OR,No,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+757,8/28/2014 11:27,38,f,United States,NC,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,I work for the state so the health plan is large and cumbersome.  I believe it covers most medical as a state benefit but I haven't seen any promotion of it.  And it's not really the same as a tech company where I am.  We are an IT department but hardly run like any tech company around.
+758,8/28/2014 11:29,26,M,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,NA
+759,8/28/2014 11:32,34,male,Germany,NA,No,No,No,Rarely,26-100,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,Maybe,Maybe,Yes,No,NA
+760,8/28/2014 11:34,21,Male,United States,IL,No,No,Yes,Often,More than 1000,No,No,No,Yes,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Yes,I have Narcolepsy and have been fired from a job before for falling asleep standing up during a meeting. I was standing up in the back of the room so that i could pace and try to prevent myself from falling asleep. I still managed to fall asleep while standing and fell over against the wall. I was fired the next day. The worst part is this is a condition i had given months of notice about to my boss and i reminded her of it before the meeting. I worked at a hospital at the time. I would have thought that they would be more accommodating.
+761,8/28/2014 11:36,31,Male,Canada,NA,Yes,Yes,No,Sometimes,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,No,No,No,No,Yes,No,I feel like most of my answers were useless due to answering that I am self-employed early on. Since my employer is me... my employer does/doesn't offer mental health benefits or would I be comfortable bring it up with 'them' doesn't make sense...
+762,8/28/2014 11:38,37,Female,United States,CA,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,No,Maybe,Yes,No,NA
+763,8/28/2014 11:40,37,Male,Ireland,NA,No,Yes,Yes,Sometimes,5-Jan,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+764,8/28/2014 11:44,38,Male,Ireland,NA,No,Yes,Yes,Sometimes,5-Jan,No,Yes,No,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,NA
+765,8/28/2014 11:47,27,Female,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,No,NA
+766,8/28/2014 11:48,39,Male,Netherlands,NA,Yes,No,No,NA,25-Jun,No,Yes,No,No,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+767,8/28/2014 11:50,33,Female,United States,AZ,Yes,Yes,Yes,Sometimes,5-Jan,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Some of them,No,No,No,No,No,NA
+768,8/28/2014 11:50,27,Male,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,No,Yes,Yes,Don't know,No,NA
+769,8/28/2014 11:54,36,F,United States,CA,No,No,Yes,Never,25-Jun,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,NA
+770,8/28/2014 11:58,28,Male,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,NA
+771,8/28/2014 11:59,39,male,United Kingdom,NA,No,No,Yes,Sometimes,500-1000,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+772,8/28/2014 12:02,33,Male,United States,VA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No,My current work situation was constructed in part because of my mental health issues. One of the reasons I'm self employed is to give me the most flexibility for coping with my mental health issues.I have been removed from a client project in the past because of a mental health condition. This was while I was an employee for a large consulting company. 
+773,8/28/2014 12:05,32,Male,United Kingdom,NA,No,No,No,NA,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,NA
+774,8/28/2014 12:06,28,Male,United Kingdom,NA,No,No,No,NA,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Yes,Yes,No,No,NA
+775,8/28/2014 12:07,37,Male,United Kingdom,NA,No,Yes,Yes,Rarely,25-Jun,No,Yes,No,No,No,No,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,Some of these questions are not really suitable for non US people.
+776,8/28/2014 12:08,39,Male,Canada,NA,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,NA
+777,8/28/2014 12:09,43,msle,United States,VA,No,No,No,Sometimes,25-Jun,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,No,No,NA
+778,8/28/2014 12:10,32,Neuter,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,Yes,Some of them,Yes,Yes,Yes,Yes,NA
+779,8/28/2014 12:10,27,Female,United States,WA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+780,8/28/2014 12:12,31,Female,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+781,8/28/2014 12:15,43,Male,United Kingdom,NA,No,No,Yes,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,NA
+782,8/28/2014 12:19,33,Male,United States,WI,No,No,Yes,Sometimes,25-Jun,Yes,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,NA
+783,8/28/2014 12:19,34,male,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+784,8/28/2014 12:22,33,M,United States,CA,Yes,No,No,NA,5-Jan,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,NA
+785,8/28/2014 12:23,25,Male,United States,CA,No,No,No,NA,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+786,8/28/2014 12:30,25,Male,United States,NE,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,Yes,NA
+787,8/28/2014 12:40,32,Male,United Kingdom,NA,Yes,Yes,No,NA,5-Jan,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,No,No,NA
+788,8/28/2014 12:42,25,Male,United States,CO,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+789,8/28/2014 12:42,37,Male,Netherlands,NA,No,No,No,NA,100-500,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,No,Don't know,No,NA
+790,8/28/2014 12:44,39,m,Switzerland,NA,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,NA
+791,8/28/2014 12:53,29,M,United Kingdom,NA,No,No,No,Rarely,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,Yes,NA
+792,8/28/2014 13:01,33,Male,United States,NY,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+793,8/28/2014 13:04,37,female,United States,TX,No,No,Yes,Often,25-Jun,Yes,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,NA
+794,8/28/2014 13:08,35,Female,United States,LA,No,No,Yes,Sometimes,100-500,No,No,Yes,No,No,No,Yes,Very difficult,Yes,Maybe,No,Some of them,No,Yes,No,Yes,I work for the state government. While things are slowly changing regarding covering mental health with state employees it's just not something that is acceptable in this kind of strict environment so I have to be careful about what I say and how I say it. I often take mental health days but have to call in with a physical illness because mental health problems are not acceptable excuses for using sick leave.
+795,8/28/2014 13:11,22,Female,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,NA
+796,8/28/2014 13:17,38,Male,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,NA
+797,8/28/2014 13:26,32,Female,United States,CA,No,Yes,Yes,Often,100-500,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,Don't know,No,NA
+798,8/28/2014 13:32,28,Male,Brazil,NA,No,No,No,NA,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,Yes,NA
+799,8/28/2014 13:34,27,Male,Switzerland,NA,No,Yes,No,NA,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,Thank you for your work what you do is important!
+800,8/28/2014 13:35,35,female,United States,CA,No,No,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,No,Maybe,Yes,No,It might be safe to talk about it where I am now but I don't know for sure and I err on the side of being over cautious. Struggle with depression and anxiety which sometimes affects my productivity but I try to make up / cover up for it instead of being open about it.
+801,8/28/2014 13:39,29,Male,United States,MD,No,No,No,Never,100-500,No,No,Yes,Yes,Yes,No,Yes,Very easy,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,NA
+802,8/28/2014 13:39,23,Male,United States,CA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,No,Yes,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+803,8/28/2014 13:40,39,M,United States,CT,No,No,No,NA,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,NA
+804,8/28/2014 13:41,30,Female,United States,CA,No,No,No,NA,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,NA
+805,8/28/2014 13:47,32,M,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+806,8/28/2014 13:47,28,Female (trans),United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,NA
+807,8/28/2014 13:48,40,female,United States,WA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,I'm comfortable talking about mental health with my current supervisor & my immediate at my current job but this is a first for me!
+808,8/28/2014 13:54,36,f,United States,CA,No,Yes,No,NA,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Yes,No,NA
+809,8/28/2014 13:57,27,Male,United States,IN,No,No,No,NA,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+810,8/28/2014 14:00,41,Male,United States,TX,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,NA
+811,8/28/2014 14:01,29,Male,United Kingdom,NA,No,No,No,Never,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+812,8/28/2014 14:02,29,m,United Kingdom,NA,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,NA
+813,8/28/2014 14:04,35,Male,United States,MO,No,No,Yes,Often,5-Jan,No,No,No,No,No,No,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,NA
+814,8/28/2014 14:12,28,Male,United States,NV,No,No,Yes,Never,25-Jun,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+815,8/28/2014 14:15,36,F,United Kingdom,NA,Yes,No,No,Sometimes,5-Jan,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+816,8/28/2014 14:31,39,Female,United States,WA,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,NA
+817,8/28/2014 14:38,39,Male,United States,FL,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+818,8/28/2014 14:41,44,male,United States,NA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,Yes,No,No,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No,NA
+819,8/28/2014 14:46,26,queer,Germany,NA,Yes,No,Yes,Sometimes,25-Jun,Yes,Yes,No,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,NA
+820,8/28/2014 14:51,35,Male,Denmark,NA,Yes,Yes,Yes,Often,5-Jan,No,Yes,No,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,NA
+821,8/28/2014 14:52,40,Female,United States,WA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,NA
+822,8/28/2014 14:53,35,Male,Denmark,NA,Yes,Yes,Yes,Often,5-Jan,No,Yes,No,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,NA
+823,8/28/2014 14:53,38,M,United States,IL,No,No,No,Never,More than 1000,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,Don't know,No,NA
+824,8/28/2014 14:57,34,Male,United States,FL,No,No,No,NA,More than 1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+825,8/28/2014 15:01,43,M,United States,MA,No,No,No,NA,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+826,8/28/2014 15:25,48,Female (cis),United States,CA,No,Yes,No,Often,26-100,No,Yes,Don't know,No,No,No,No,Very difficult,Yes,Yes,No,Some of them,No,No,No,Yes,None of us who are already in marginal groups in tech--the non-young the non-male the non-white--will risk our careers to admit another source of stigma: poor health.
+827,8/28/2014 15:32,20,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+828,8/28/2014 15:37,40,M,United States,MI,Yes,No,No,Sometimes,5-Jan,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,NA
+829,8/28/2014 15:40,29,female,United Kingdom,NA,No,No,Yes,Rarely,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+830,8/28/2014 15:43,35,Male,United States,MI,No,Yes,Yes,Sometimes,5-Jan,No,No,No,Yes,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,NA
+831,8/28/2014 15:48,29,Male,United States,WI,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,NA
+832,8/28/2014 15:50,40,M,United States,CA,No,No,No,Never,100-500,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+833,8/28/2014 15:50,29,Male,Sweden,NA,No,No,Yes,Rarely,25-Jun,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+834,8/28/2014 15:54,29,F,United States,CA,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,NA
+835,8/28/2014 15:56,34,male,United States,TX,No,No,Yes,Sometimes,5-Jan,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,NA
+836,8/28/2014 16:09,44,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,500-1000,No,No,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,NA
+837,8/28/2014 16:17,24,female,United States,NY,No,Yes,Yes,Often,25-Jun,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,NA
+838,8/28/2014 16:31,47,F,United States,PA,No,No,No,NA,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Very difficult,Yes,Yes,No,No,No,No,No,No,NA
+839,8/28/2014 16:42,43,m,United Kingdom,NA,No,Yes,No,NA,More than 1000,No,No,,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+840,8/28/2014 16:52,36,M,United States,PA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,No,No,NA
+841,8/28/2014 16:52,43,male,United States,GA,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+842,8/28/2014 16:52,36,male,United Kingdom,NA,Yes,No,No,Sometimes,25-Jun,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Don't know,Yes,NA
+843,8/28/2014 16:54,31,Female,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,I have been incredibly public about my own struggle in my own conversations and in social media insofar as how I can use my depression to raise awareness or help others. Because of that my employer - or any future employer - kind of knows by default. It's not a secret. That said the downside of that openness is that I have no faith that I wouldn't be discriminated against at a future job simply because the information is public. Likewise I worry I'm seen as less-than by my employer in some circumstances. Regerdless I don't regret being public and raising awareness. My point is that even those of us who do publicly discuss the issue fear systemic retribution. 
+844,8/28/2014 16:55,35,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,NA
+845,8/28/2014 16:55,33,male,United States,TN,No,Yes,No,NA,26-100,No,No,Yes,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Don't know,No,NA
+846,8/28/2014 16:56,37,Male,Italy,NA,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,NA
+847,8/28/2014 16:56,34,M,United States,TN,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,No,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,At a previous employer I witness a bad thing happen to a coworker with mental health issues get swept under the rug... :(
+848,8/28/2014 16:56,36,Male,Netherlands,NA,Yes,No,Yes,Sometimes,5-Jan,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,No,No,No,Yes,No,NA
+849,8/28/2014 16:57,40,m,United States,TN,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,NA
+850,8/28/2014 16:57,40,M,United States,IL,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,While not personally affected I do have immediate family with mental health illness and my employer has been very supportive. Thanks for doing this survey.
+851,8/28/2014 16:57,42,Male,United States,WI,No,No,Yes,Sometimes,5-Jan,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+852,8/28/2014 16:58,23,M,United States,KY,No,Yes,No,NA,26-100,Yes,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,NA
+853,8/28/2014 16:58,21,Male,United Kingdom,NA,No,Yes,No,Never,25-Jun,No,No,No,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+854,8/28/2014 16:58,26,Male,Canada,NA,No,No,No,Sometimes,25-Jun,Yes,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,NA
+855,8/28/2014 17:01,31,Male,United States,NA,No,Yes,No,NA,25-Jun,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+856,8/28/2014 17:01,25,M,United States,CA,No,Yes,No,NA,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,NA
+857,8/28/2014 17:01,51,Male,United States,MN,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,NA
+858,8/28/2014 17:02,24,Male,United States,TN,No,No,No,NA,25-Jun,No,Yes,Don't know,Not sure,Don't know,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+859,8/28/2014 17:02,33,Male,United States,MN,No,No,No,NA,100-500,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No,The company I work for was started by engineers and so anything other then the engineering department has always lacked a bit. Now that we've grown things are better but I feel that overall our total benefits package (including healthcare) isn't well communicated. This reflects negatively on the mental health questions above but would also reflect negatively on any other sort of survey about the benefits. That is I don't think the company is purposefully doing less for mental health. They just aren't doing enough across the board and that includes mental health.
+860,8/28/2014 17:02,32,male,United Kingdom,NA,No,Yes,Yes,Rarely,25-Jun,No,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,NA
+861,8/28/2014 17:02,32,male,United Kingdom,NA,No,Yes,Yes,Rarely,25-Jun,No,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,NA
+862,8/28/2014 17:03,26,Male,United Kingdom,NA,Yes,No,Yes,Rarely,5-Jan,Yes,Yes,No,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+863,8/28/2014 17:07,23,M,United States,IL,No,No,No,Never,100-500,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+864,8/28/2014 17:07,33,Male,United States,TN,No,Yes,Yes,Often,25-Jun,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,NA
+865,8/28/2014 17:07,46,Male,United States,IL,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,NA
+866,8/28/2014 17:08,34,male,United Kingdom,NA,No,No,No,NA,25-Jun,Yes,Yes,No,No,No,No,No,Somewhat difficult,Yes,Maybe,No,No,No,Yes,No,Yes,NA
+867,8/28/2014 17:09,35,M,United States,DC,No,Yes,Yes,Sometimes,25-Jun,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+868,8/28/2014 17:10,39,M,United States,KS,No,No,No,NA,5-Jan,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,Thank you for all you are doing to study this topic and raise awareness in our communities. 
+869,8/28/2014 17:10,32,male,Germany,NA,Yes,No,No,Sometimes,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No,NA
+870,8/28/2014 17:10,43,Male,Mexico,NA,Yes,No,No,NA,More than 1000,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+871,8/28/2014 17:11,56,m,United States,CA,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,NA
+872,8/28/2014 17:12,32,Female,United Kingdom,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,NA
+873,8/28/2014 17:14,41,male,United Kingdom,NA,No,No,No,NA,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,No,Yes,NA
+874,8/28/2014 17:16,39,Male,United States,TN,No,No,No,NA,More than 1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+875,8/28/2014 17:19,37,Male,United States,OK,No,Yes,No,NA,500-1000,No,No,Yes,Yes,No,No,Yes,Very easy,Maybe,No,No,No,No,No,No,No,NA
+876,8/28/2014 17:19,30,m,United States,CA,Yes,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No,The main reason for the openness answers are because of an experience with my last employer. I felt I could trust my direct supervisor so I divulged information. It ended up spreading to more supervisors and eventually my coworkers. Supers highly suggested treatment but rushed things that shouldn't have been rushed and I ended up being incorrectly treated in a psych ward and mentally scarred from the issue. I lost most of my desire to program due to the experience not to mention thousands of dollars I lost - lost work time vacation time they used for treatment time doctors expenses etc. I have major depressive disorder high anxiety and mild agoraphobia. After seeing what treatment has to offer I will likely not seek it again and continue as is. (Long story short.)
+877,8/28/2014 17:19,31,Male,United States,TN,No,No,No,NA,26-100,No,Yes,Yes,No,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,NA
+878,8/28/2014 17:20,29,M,United States,TX,No,No,No,NA,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,NA
+879,8/28/2014 17:20,23,Female,United Kingdom,NA,No,Yes,No,Never,More than 1000,No,No,No,No,No,Yes,Don't know,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+880,8/28/2014 17:21,31,male,United States,CO,No,No,Yes,Never,26-100,No,Yes,Yes,Yes,No,Don't know,Yes,Very easy,Maybe,No,No,No,No,No,Don't know,No,NA
+881,8/28/2014 17:21,29,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,NA
+882,8/28/2014 17:22,30,Mail,United States,GA,No,No,No,Never,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,NA
+883,8/28/2014 17:22,37,Male,United States,TN,No,No,No,Never,500-1000,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Yes,(yes but the situation was unusual and involved a change in leadership at a very high level in the organization as well as an extended leave of absence)
+884,8/28/2014 17:23,36,male,United States,VA,Yes,No,No,Never,5-Jan,No,Yes,Yes,No,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Yes,Yes,Yes,Yes,No,NA
+885,8/28/2014 17:27,35,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No,NA
+886,8/28/2014 17:27,41,M,United States,DC,No,Yes,No,Never,500-1000,Yes,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,NA
+887,8/28/2014 17:28,31,Male,United Kingdom,NA,No,No,Yes,Rarely,25-Jun,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+888,8/28/2014 17:28,38,m,United Kingdom,NA,No,Yes,No,NA,500-1000,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,NA
+889,8/28/2014 17:31,26,Male,India,NA,Yes,No,No,NA,100-500,No,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+890,8/28/2014 17:33,39,Male,United States,TN,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Yes,I would add that while there were negative consequences for coworkers with mental health they were given a HUGE amount of leeway.  I think the team at large tried their best to be kind but that's how the person suffered.  The company actually gave this person a lot of help.  Which was cool.  But the team still discriminated.
+891,8/28/2014 17:33,42,male,United States,VA,Yes,Yes,No,Sometimes,25-Jun,Yes,No,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,NA
+892,8/28/2014 17:34,32,Male,United States,TN,Yes,Yes,Yes,Rarely,5-Jan,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,NA
+893,8/28/2014 17:35,29,m,United States,TN,No,Yes,No,NA,100-500,No,Yes,Don't know,Not sure,,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+894,8/28/2014 17:36,30,Male,United States,TN,No,Yes,No,Never,100-500,No,Yes,Yes,No,Don't know,Yes,Don't know,Very difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,No,NA
+895,8/28/2014 17:39,40,M,United States,TN,No,Yes,Yes,Often,500-1000,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,Bipolar spectrum is tricky.
+896,8/28/2014 17:45,51,m,United States,TN,No,No,No,NA,100-500,No,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,No,NA
+897,8/28/2014 17:46,33,Male,United States,IN,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,NA
+898,8/28/2014 17:47,34,male,Germany,NA,Yes,No,Yes,Sometimes,5-Jan,Yes,Yes,No,Not sure,No,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,To be self employed helps but also brings you in touch with lots of new people that you might have to explain yourself to.
+899,8/28/2014 17:47,50,Male,United States,VA,Yes,No,No,Never,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,A lot of these answers aren't really applicable since I'm self employed as a sole proprietor.
+900,8/28/2014 17:50,24,Male,United States,TX,No,No,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,NA
+901,8/28/2014 17:56,25,Male,United States,TX,No,Yes,Yes,Rarely,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,NA
+902,8/28/2014 17:57,43,Male,United Kingdom,NA,No,Yes,Yes,Rarely,26-100,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,NA
+903,8/28/2014 17:57,25,f,United States,CA,Yes,No,Yes,Often,5-Jan,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Yes,NA
+904,8/28/2014 17:59,24,Male,United Kingdom,NA,Yes,No,No,NA,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,No,No,No,Maybe,Yes,No,NA
+905,8/28/2014 17:59,51,m,United States,CO,Yes,No,No,Never,5-Jan,No,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+906,8/28/2014 17:59,49,Male,United States,OR,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,NA
+907,8/28/2014 18:01,30,Male,United States,OK,No,No,No,NA,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,NA
+908,8/28/2014 18:02,25,female,United States,OH,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,No,No,No,While I have not seen any direct retaliation against people with known mental illness many people do freely use insults commonly associated with mental illness (r****d for example) and criticize people behind their back for taking extra leave for doctor appointments (Oh I bet they are just hung over or other comments about how lazy they are.)
+909,8/28/2014 18:07,36,Male,United States,TN,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,NA
+910,8/28/2014 18:17,48,Male,United States,VA,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Yes,NA
+911,8/28/2014 18:18,48,male,Australia,NA,No,No,Yes,Sometimes,25-Jun,No,Yes,No,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,Yes,NA
+912,8/28/2014 18:21,53,Male,United States,OR,No,No,Yes,Rarely,25-Jun,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,NA
+913,8/28/2014 18:21,24,Female,United Kingdom,NA,No,Yes,Yes,Often,25-Jun,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,NA
+914,8/28/2014 18:26,33,Male,United States,OR,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,NA
+915,8/28/2014 18:50,25,Female,Canada,NA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+916,8/28/2014 19:03,30,Male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,NA
+917,8/28/2014 19:04,30,Male,United States,PA,Yes,No,No,Never,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+918,8/28/2014 19:15,34,male,United Kingdom,NA,Yes,No,Yes,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,NA
+919,8/28/2014 19:26,31,Male,United States,SC,No,No,No,NA,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,NA
+920,8/28/2014 19:28,22,F,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,NA
+921,8/28/2014 19:35,28,Male,United States,TN,No,Yes,No,Sometimes,25-Jun,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,NA
+922,8/28/2014 20:12,35,Male,United States,UT,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,NA
+923,8/28/2014 20:31,28,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,No,No,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,NA
+924,8/28/2014 20:49,42,male,New Zealand,NA,No,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Don't know,No,Yes,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,NA
+925,8/28/2014 21:22,33,Male,United States,MO,No,Yes,No,NA,500-1000,No,Yes,Yes,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,NA
+926,8/28/2014 21:24,29,male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,NA
+927,8/28/2014 21:27,43,M,United States,NA,No,Yes,No,Sometimes,500-1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,No,No,My employer gives access to basic counseling and referrals but I don't know (and it's not obvious) what might be covered in the way of expenses for therapy medication etc.
+928,8/28/2014 21:30,29,Male,United States,NY,No,No,No,NA,26-100,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,NA
+929,8/28/2014 21:33,25,Male,United States,TX,No,No,No,NA,100-500,Yes,Yes,Yes,No,No,No,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+930,8/28/2014 21:38,31,Male,United States,MO,No,Yes,No,Never,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+931,8/28/2014 21:41,35,Female,United States,GA,No,Yes,Yes,Sometimes,25-Jun,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,* Small family business - YMMV.
+932,8/28/2014 21:47,34,male,United States,TX,No,No,No,Often,5-Jan,No,Yes,Don't know,No,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,* Small family business - YMMV.
+933,8/28/2014 22:16,43,Cis Male,United States,WA,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,* Small family business - YMMV.
+934,8/28/2014 22:17,38,Male,United States,WA,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Not sure,No,No,Don't know,Very difficult,Yes,Yes,No,Some of them,No,Maybe,No,No,* Small family business - YMMV.
+935,8/28/2014 22:18,26,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Some of them,Yes,Yes,No,Yes,* Small family business - YMMV.
+936,8/28/2014 22:20,38,Male,United Kingdom,NA,Yes,Yes,Yes,Rarely,5-Jan,Yes,No,No,No,No,No,Yes,Very difficult,Maybe,No,No,No,No,No,No,No,NA
+937,8/28/2014 22:22,42,Male,United States,TX,No,No,Yes,Often,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,NA
+938,8/28/2014 22:23,33,Male,Netherlands,NA,No,Yes,Yes,NA,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Yes,NA
+939,8/28/2014 22:35,32,Male,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+940,8/28/2014 22:39,44,male,United States,WA,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,NA
+941,8/28/2014 22:46,28,Male,United States,WA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,NA
+942,8/28/2014 23:03,40,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Yes,NA
+943,8/28/2014 23:13,31,F,United States,AZ,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,NA
+944,8/28/2014 23:16,32,male,United States,WA,No,Yes,No,Sometimes,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No,NA
+945,8/28/2014 23:57,28,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,NA
+946,8/29/2014 0:05,39,Male,United States,AZ,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No,NA
+947,8/29/2014 0:06,45,Male,United States,NY,No,No,No,NA,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,NA
+948,8/29/2014 0:11,43,Male,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,I have an exceptional employer. I haven't run into problems with any employer I've had but consider myself lucky.
+949,8/29/2014 0:41,35,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+950,8/29/2014 0:43,40,Male,United States,WA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,NA
+951,8/29/2014 0:47,34,Male,Netherlands,NA,No,No,Yes,Rarely,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+952,8/29/2014 1:14,24,Male,United Kingdom,NA,No,Yes,Yes,Often,26-100,No,No,Don't know,Yes,No,No,No,Somewhat easy,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,NA
+953,8/29/2014 1:20,61,male,South Africa,NA,Yes,No,Yes,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,NA
+954,8/29/2014 1:40,36,Female ,United States,WA,No,Yes,Yes,Rarely,25-Jun,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,NA
+955,8/29/2014 2:10,38,Male,United States,TN,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Some of these should not be required.
+956,8/29/2014 2:24,33,male,Germany,NA,No,Yes,Yes,Often,26-100,No,Yes,Don't know,Not sure,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,NA
+957,8/29/2014 3:02,30,male,United States,WA,No,Yes,No,Never,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,No,NA
+958,8/29/2014 3:02,34,male,Netherlands,NA,Yes,Yes,Yes,Rarely,5-Jan,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Some of them,No,Maybe,Yes,No,Though I'm in the Netherlands and chose that country from the list quite some questions are strongly geared towards the US. Over here people don't need benefits from their employer because we pay enough taxes for the government to pay for treatment of any physical or mental condition. We don't need employer approval for medical leave; that's something a qualified medical professional decides (and while on leave we still get paid our salaries something the employer can get insurance for). I answered yes to questions about these things meaning it's covered not it's covered by my employer.
+959,8/29/2014 3:08,26,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,NA
+960,8/29/2014 4:39,33,M,United Kingdom,NA,No,No,No,NA,More than 1000,No,Yes,,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+961,8/29/2014 4:53,32,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,No,Yes,No,Maybe,No,No,NA
+962,8/29/2014 5:15,25,male,Germany,NA,Yes,No,No,Sometimes,25-Jun,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,NA
+963,8/29/2014 5:24,35,male,Germany,NA,Yes,No,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Yes,No,No,Maybe,Don't know,No,NA
+964,8/29/2014 5:39,24,M,United Kingdom,NA,Yes,Yes,No,Often,5-Jan,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,NA
+965,8/29/2014 5:47,55,male,United Kingdom,NA,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Maybe,No,Some of them,No,Maybe,No,Yes,NA
+966,8/29/2014 5:54,33,Male,United Kingdom,NA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,NA
+967,8/29/2014 5:57,26,Female,United Kingdom,NA,Yes,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,I am a Trans woman and suffer from depression relating to that. I'm a contractor so I've answered the questions as relating to my current contract.
+968,8/29/2014 6:06,25,Male,United Kingdom,NA,No,No,No,Never,25-Jun,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,NA
+969,8/29/2014 6:37,45,Male,United Kingdom,NA,No,Yes,No,Rarely,100-500,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+970,8/29/2014 6:42,33,female,United Kingdom,NA,Yes,No,Yes,Sometimes,5-Jan,Yes,Yes,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+971,8/29/2014 7:12,43,Male,United States,MI,No,No,No,Sometimes,More than 1000,Yes,Yes,No,Not sure,No,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,NA
+972,8/29/2014 7:21,30,Male,United Kingdom,NA,Yes,No,Yes,Sometimes,25-Jun,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,Yes,Yes,NA
+973,8/29/2014 7:28,40,Male,United States,IN,No,Yes,Yes,Rarely,25-Jun,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,NA
+974,8/29/2014 7:51,49,Male,United States,GA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,No,Thank you for shining a light on this topic.
+975,8/29/2014 8:26,29,Male,Germany,NA,No,No,No,NA,25-Jun,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,NA
+976,8/29/2014 8:36,26,male,Germany,NA,No,No,No,NA,500-1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,NA
+977,8/29/2014 8:46,38,cis male,United States,WA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,NA
+978,8/29/2014 8:53,27,Male,France,NA,No,Yes,No,NA,500-1000,No,No,Yes,Yes,Don't know,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,Yes,NA
+979,8/29/2014 8:54,26,male,Belgium,NA,No,No,No,Never,25-Jun,No,Yes,Yes,No,No,No,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,NA
+980,8/29/2014 8:57,28,Male,United Kingdom,NA,No,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,No,No,No,No,NA
+981,8/29/2014 8:57,40,Male,United States,ME,No,Yes,Yes,Sometimes,5-Jan,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,NA
+982,8/29/2014 8:59,37,Female,Canada,NA,Yes,Yes,Yes,Rarely,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Yes,NA
+983,8/29/2014 8:59,34,female,United Kingdom,NA,No,Yes,Yes,Often,26-100,Yes,No,Yes,Yes,No,Yes,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,NA
+984,8/29/2014 9:01,28,male,United States,NY,No,Yes,Yes,Often,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,NA
+985,8/29/2014 9:01,27,Male,Canada,NA,No,No,No,Never,26-100,No,Yes,Yes,Not sure,Yes,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+986,8/29/2014 9:02,29,Male,United Kingdom,NA,No,No,Yes,Sometimes,25-Jun,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,NA
+987,8/29/2014 9:02,39,Female,United Kingdom,NA,No,Yes,No,Rarely,500-1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,NA
+988,8/29/2014 9:03,28,male,United Kingdom,NA,No,No,No,Often,25-Jun,No,Yes,No,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Yes,Yes,No,NA
+989,8/29/2014 9:10,23,Male,United States,PA,No,Yes,No,Sometimes,26-100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,No,No,No,No,No,Maybe,Don't know,No,NA
+990,8/29/2014 9:10,8,A little about you,"Bahamas, The",IL,Yes,Yes,Yes,Often,5-Jan,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes, 
+991,8/29/2014 9:12,38,Male,United Kingdom,NA,No,No,No,NA,5-Jan,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+992,8/29/2014 9:13,19,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,Yes,No,No,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,NA
+993,8/29/2014 9:14,30,Female,United States,IL,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,NA
+994,8/29/2014 9:15,28,male,United Kingdom,NA,Yes,No,No,NA,5-Jan,Yes,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,No,No,No,No,Yes,No,NA
+995,8/29/2014 9:15,20,Male,India,NA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Yes,No,NA
+996,8/29/2014 9:19,35,Male,United Kingdom,NA,Yes,No,No,Sometimes,5-Jan,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,NA
+997,8/29/2014 9:24,39,male,United States,MN,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,NA
+998,8/29/2014 9:23,31,Female,United States,TX,No,Yes,No,Never,More than 1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,NA
+999,8/29/2014 9:23,32,Male,United Kingdom,NA,No,No,No,Rarely,500-1000,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,NA
+1000,8/29/2014 9:27,27,Male,Sweden,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,NA
+1001,8/29/2014 9:29,25,Male,United States,PA,No,Yes,Yes,Often,25-Jun,Yes,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+1002,8/29/2014 9:31,42,male,United States,IN,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,NA
+1003,8/29/2014 9:31,34,male,United States,PA,No,Yes,Yes,Often,100-500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,NA
+1004,8/29/2014 9:33,26,female,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Maybe,Don't know,Yes,NA
+1005,8/29/2014 9:35,35,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,5-Jan,No,Yes,No,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,Yes,Yes,NA
+1006,8/29/2014 9:36,34,Male,United Kingdom,NA,No,No,No,Never,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,Maybe,No,Yes,Yes,No,No,Yes,No,NA
+1007,8/29/2014 9:36,38,m,United States,PA,No,Yes,Yes,Sometimes,100-500,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,While mental health is a part of our insurance program the UCR is 50% of 140% of medicare which means a solo mental health practitioner who will charge in my area $150-$180 a session will only result in a $45-$60 reimbursement and thus a very high out of pocket expense. This usage of a different schedule for UCR and often the lower rate is very hard to determine before purchasing insurance even in the new health insurance exchanges.
+1008,8/29/2014 9:40,34,M,United States,SD,No,No,No,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,NA
+1009,8/29/2014 9:42,39,M,United States,IN,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,NA
+1010,8/29/2014 9:46,44,F,United States,CA,No,No,No,NA,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,NA
+1011,8/29/2014 9:47,40,male,United States,TN,No,No,No,NA,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,No,Yes,No,No,Don't know,No,NA
+1012,8/29/2014 9:47,33,female,United States,TX,Yes,No,No,Never,5-Jan,Yes,Yes,No,Yes,Don't know,Don't know,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,No,NA
+1013,8/29/2014 9:51,24,Female,United States,TN,No,Yes,No,Sometimes,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,NA
+1014,8/29/2014 9:53,38,Female,United States,OR,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,NA
+1015,8/29/2014 9:53,31,male,United States,SD,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Yes,No,NA
+1016,8/29/2014 9:54,23,Male,Israel,NA,No,No,No,NA,100-500,No,Yes,Don't know,Not sure,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,NA
+1017,8/29/2014 9:54,26,F,United States,NY,No,No,No,NA,25-Jun,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,NA
+1018,8/29/2014 9:58,46,Female (trans),United States,CT,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,No,Yes,NA
+1019,8/29/2014 9:59,30,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+1020,8/29/2014 10:03,25,Male,United States,NA,No,No,No,Rarely,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Yes,Don't know,Yes,My work is using my brain. I do it incredibly well.I make an effort to avoid diagnosis of anything mental health related because I am convinced it would only affect me negatively.
+1021,8/29/2014 10:05,19,M,Canada,NA,No,No,No,Never,26-100,Yes,Yes,,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,No,No,NA
+1022,8/29/2014 10:06,30,Female,United States,GA,No,Yes,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,No,Yes,NA
+1023,8/29/2014 10:12,32,m,United States,TN,No,No,No,Never,25-Jun,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,NA
+1024,8/29/2014 10:13,32,Male,United Kingdom,NA,No,No,No,NA,25-Jun,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,NA
+1025,8/29/2014 10:13,37,Male,United States,IN,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,My employer is extremely easy to work with and e.g. I have enormous leeway with flex time so I could take care of myself under that umbrella but I don't know and don't have a history of bring up mental health at the workplace so I am cautious in that area.
+1026,8/29/2014 10:16,42,M,United States,CA,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,NA
+1027,8/29/2014 10:27,25,female,United States,OR,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,No,Yes,No,NA
+1028,8/29/2014 10:30,19,Male,United States,IN,No,No,No,Sometimes,5-Jan,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,NA
+1029,8/29/2014 10:32,40,female,United States,GA,No,Yes,No,Never,100-500,Yes,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,NA
+1030,8/29/2014 10:33,34,Male,United States,IN,No,No,No,NA,More than 1000,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No,NA
+1031,8/29/2014 10:38,26,Male,United States,MN,No,Yes,No,NA,25-Jun,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,NA
+1032,8/29/2014 10:38,31,Male,United States,MN,No,Yes,Yes,Rarely,25-Jun,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,,No,No,Yes,Yes,Maybe,Maybe,Yes,No,NA
+1033,8/29/2014 10:55,40,Male,United States,NC,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,NA
+1034,8/29/2014 10:59,31,Female,United States,FL,No,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,No,Very difficult,Yes,No,No,No,No,Yes,No,Yes,NA
+1035,8/29/2014 11:01,36,M,United States,MN,No,No,No,Never,100-500,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,NA
+1036,8/29/2014 11:02,35,Male,Canada,NA,No,Yes,No,Sometimes,25-Jun,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,NA
+1037,8/29/2014 11:04,26,male,Australia,NA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,The questions related to employer-provided health benefits are largely irrelevant to where I live Australia so I'd discount them.
+1038,8/29/2014 11:05,44,m,United States,MO,No,No,No,NA,More than 1000,Yes,No,Don't know,No,Don't know,Don't know,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No,NA
+1039,8/29/2014 11:11,34,Female,United States,CA,No,No,No,Sometimes,5-Jan,No,Yes,No,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,NA
+1040,8/29/2014 11:12,35,Male,United States,OR,No,No,No,NA,25-Jun,Yes,Yes,No,No,No,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,NA
+1041,8/29/2014 11:19,28,female,United States,OH,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,No,No,NA
+1042,8/29/2014 11:20,33,Male,United States,NY,No,No,No,NA,25-Jun,Yes,Yes,Yes,No,Don't know,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,NA
+1043,8/29/2014 11:20,40,M,United States,WI,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,NA
+1044,8/29/2014 11:20,26,Male,United States,WA,No,No,Yes,Sometimes,25-Jun,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+1045,8/29/2014 11:22,29,f,United Kingdom,NA,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No,Yes,NA
+1046,8/29/2014 11:23,26,Female,Canada,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,NA
+1047,8/29/2014 11:24,33,Malr,Italy,NA,No,Yes,Yes,Sometimes,25-Jun,No,Yes,No,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,I suffered of panic attacks and agoraphobia for about 10 years.
+1048,8/29/2014 11:25,28,Male,Brazil,NA,No,Yes,No,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,Yes,NA
